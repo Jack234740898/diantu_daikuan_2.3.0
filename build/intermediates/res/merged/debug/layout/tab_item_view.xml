@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#f8f8f8"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/view_rl" 
+        android:clickable="true">
+
+        <ImageView
+            android:id="@+id/imageview"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="6dp"
+            android:src="@drawable/tab1_img" />
+
+            <TextView
+                android:id="@+id/my_remind_text"
+                android:layout_width="13dp"
+                android:layout_height="13dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/circle_red_shape"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                android:visibility="visible" 
+                android:maxLength="1"/>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="6dp"
+        android:text="首页"
+        android:textColor="@color/home_tab_foot_textcolor"
+        android:textSize="12sp" />
+
+</LinearLayout>

@@ -1,0 +1,1298 @@
+[
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_empty_head_imageview.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_empty_head_imageview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\shixin_query.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\shixin_query.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\qiangdan_setting.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\qiangdan_setting.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\home_banner_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\home_banner_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\manager_info_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\manager_info_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\reg1.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\reg1.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\home_orders_list_item1_back.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\home_orders_list_item1_back.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_push_lib\\unspecified\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\test_img.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\test_img.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_selector_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_bak_platform_selector_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\content_frame.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\content_frame.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\home_fg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\home_fg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\modify_pwd.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\modify_pwd.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\recent_loan_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\recent_loan_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\dk_pd_need_material.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\dk_pd_need_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_select_dialog_multichoice.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\product_detail_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\product_detail_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\home_toptab_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\home_toptab_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\my_daikuan_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\my_daikuan_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_smiley_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_smiley_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\tag.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\android-flowlayout-master-lib\\unspecified\\res\\layout\\tag.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\city_group_textview_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\city_group_textview_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_multi_pick_album_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_multi_pick_album_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_title_self_state.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_title_self_state.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_send_state.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_send_state.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_phrase_list.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_phrase_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\handmarkPulltorefreshLibrary-master\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\headview.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\headview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\credit_manager_detail_top_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\credit_manager_detail_top_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\bank_service.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\bank_service.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\my_have_fangkuan.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\my_have_fangkuan.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_smily_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_smily_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\choose_identity.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\choose_identity.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_audio_flipper_from.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_audio_flipper_from.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_smiley_indicator_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_smiley_indicator_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_left_from.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_left_from.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_title_bar_shadow.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_title_bar_shadow.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\diantu_guwen_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\diantu_guwen_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\shixin_query_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\shixin_query_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_template_vertical_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_template_vertical_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\two_wheelview.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\two_wheelview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_localnotification.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_push_lib\\unspecified\\res\\layout\\activity_localnotification.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\manager_detail_navi_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\manager_detail_navi_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_item_simple.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_bak_platform_item_simple.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\score_page.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\score_page.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_tooltip_popwindows.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_tooltip_popwindows.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\headview_righttext.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\headview_righttext.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_custom_item_without_head.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_custom_item_without_head.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\demo_custom_conversation_item_2.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\demo_custom_conversation_item_2.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aatest_multiloan.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\aatest_multiloan.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_template_cloud_auto_reply_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_template_cloud_auto_reply_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\dk_pd_other_contents.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\dk_pd_other_contents.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\menu_frame.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\menu_frame.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_search_text.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_search_text.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\my_order_status_list_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\my_order_status_list_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_select_dialog_singlechoice.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\credit_manager_detail.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\credit_manager_detail.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_push_lib\\unspecified\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_fragment_contacts.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_fragment_contacts.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\home_orders_list_item2.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\home_orders_list_item2.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\main_home.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\main_home.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\customer_review_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\customer_review_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_contacts_header_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_contacts_header_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_conversation_custom_view_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_conversation_custom_view_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_enlarge_enhanced_text_activity.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_enlarge_enhanced_text_activity.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_list_dialog_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_list_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\com_taobao_tae_sdk_progress_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\com_taobao_tae_sdk_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\car_evaluate.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\car_evaluate.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\forget_pwd.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\forget_pwd.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\about_us.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\select_tag_activity.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\android-flowlayout-master-lib\\unspecified\\res\\layout\\select_tag_activity.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\apply_loan_detail.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\apply_loan_detail.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_select_dialog_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_select_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\my_daikuan.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\my_daikuan.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\consult_grid_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\consult_grid_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\com_taobao_tae_sdk_web_view_activity.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\com_taobao_tae_sdk_web_view_activity.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\apply_dk.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\apply_dk.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\cate_dk_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\cate_dk_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_template_flex_grid_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_template_flex_grid_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\alllocation.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\alllocation.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\daikuan_product_detail.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\daikuan_product_detail.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aatest_mainhome_loan_gv_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\aatest_mainhome_loan_gv_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aatest_credit.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\aatest_credit.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\img_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\img_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\menu_frame_left.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\menu_frame_left.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_reply_bar_select.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_reply_bar_select.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\com_taobao_tae_sdk_web_view_menu_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\com_taobao_tae_sdk_web_view_menu_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_send_at_msg_detail_contact_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_send_at_msg_detail_contact_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\consulant_list_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\consulant_list_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_template_custom_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_template_custom_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\my_info.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\my_info.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_multi_pick_gallery_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_multi_pick_gallery_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_cancle_dialog2.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\confirm_cancle_dialog2.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\loading_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\loading_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_msg_unread_count.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_msg_unread_count.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_alert_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_cloud_pwd_settting_hint.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_cloud_pwd_settting_hint.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_grid.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_grid.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\common_pull_gridview.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\common_pull_gridview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_audio_unread.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_audio_unread.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_first_new_msg_notify.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_first_new_msg_notify.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\apply_loan.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\apply_loan.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aatest_top_score_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\aatest_top_score_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_gif_smily_show_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_gif_smily_show_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aatest_carcredit_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\aatest_carcredit_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_tribe_member_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_tribe_member_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_multi_pick_album.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_multi_pick_album.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\demo_custom_tribe_msg_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\demo_custom_tribe_msg_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_pull_down_refresh_toast.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_pull_down_refresh_toast.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_bind_select_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aatest_productdetail.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\aatest_productdetail.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_tooltip_head.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_tooltip_head.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_image_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_image_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_pull_to_refresh_header.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aatest_immortalvp.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\aatest_immortalvp.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_enter_chatting_room_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_enter_chatting_room_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\cur_city_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\cur_city_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\recent_loan.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\recent_loan.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\order_detail_img_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\order_detail_img_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_activity_send_at_msg_detail.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_activity_send_at_msg_detail.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_contacts_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_contacts_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_tooltip_chatwindow_rec_text.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_tooltip_chatwindow_rec_text.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_cancle_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\confirm_cancle_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\choose_pics.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\choose_pics.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\rating_img_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\rating_img_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\common_pull_listview.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\common_pull_listview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_bak_at_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aaaaaaaaaaaaaa.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\aaaaaaaaaaaaaa.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_audio_flipper_to.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_audio_flipper_to.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_tooltip_chatwindow_2.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_tooltip_chatwindow_2.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_smily_delete_button.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_smily_delete_button.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_sliding_tab_receive.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_sliding_tab_receive.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_image_detail_fragment.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_image_detail_fragment.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\province_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\province_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_template_image_text_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_template_image_text_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aatest_mainhometitle.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\aatest_mainhometitle.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_fast_send_photo_popup_window_cover.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_fast_send_photo_popup_window_cover.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\home_consult_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\home_consult_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\main_home_head_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\main_home_head_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\table_textview_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\table_textview_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\no_apply_loan.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\no_apply_loan.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_item_leftname.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_item_leftname.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\conversation_order_detatil.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\conversation_order_detatil.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aatest_mainfg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\aatest_mainfg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_gif_smily_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_gif_smily_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\choose_city.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\choose_city.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\apply_status_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\apply_status_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_gif.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_gif.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\system_msg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\system_msg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\overlay.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\overlay.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_left_right_head.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_left_right_head.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_show_gif_progress.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_show_gif_progress.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\bank_service_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\bank_service_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_smily.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_smily.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\cash_installments_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\cash_installments_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_adview.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\tb_munion_adview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\my_order_status_list.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\my_order_status_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_tooltip_chatwindow.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_tooltip_chatwindow.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\listview_swiperefresh_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\listview_swiperefresh_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_from.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_from.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\consultant_fg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\consultant_fg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_custom_msg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_custom_msg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_message.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_message.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\my_orders_list_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\my_orders_list_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_select_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_select_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\province.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\province.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\home_cate_grid_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\home_cate_grid_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\customer_reviews_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\customer_reviews_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\order_manager_fg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\order_manager_fg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\order_detail_key_value.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\order_detail_key_value.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_left_name.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_left_name.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\reg_headview.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\reg_headview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\apply_sucess.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\apply_sucess.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_at_message_send_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_at_message_send_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\handmarkPulltorefreshLibrary-master\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_list_dialog_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_list_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\apply_detail_fg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\apply_detail_fg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_pull_to_refresh_header_1.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_pull_to_refresh_header_1.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\person_desc.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\person_desc.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\row_linearlayout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\row_linearlayout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_aditem.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\tb_munion_aditem.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_receive_state.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_receive_state.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\reg2.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\reg2.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\dk_pd_detail.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\dk_pd_detail.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\apply_dk_fg_head_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\apply_dk_fg_head_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_facebook_login_activity_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_socialize_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\dk_pd_detail_top.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\dk_pd_detail_top.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_item_focus_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_item_focus_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\home_orders_list_item1.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\home_orders_list_item1.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_download_image_progress.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_download_image_progress.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_template_text_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_template_text_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\hot_city_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\hot_city_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\customer_toast.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\customer_toast.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_activity_at_msg_list.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_activity_at_msg_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\dk_pd_detail_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\dk_pd_detail_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_sliding_tab_send.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_sliding_tab_send.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\popu_apply_loan.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\popu_apply_loan.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_check_code.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_check_code.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\demo_custom_conversation_item_1.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\demo_custom_conversation_item_1.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\home_img_anima_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\home_img_anima_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\dk_pd_apply_condition.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\dk_pd_apply_condition.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_localnotification.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_push_lib\\unspecified\\res\\layout\\activity_add_localnotification.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\barcode_card.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\barcode_card.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\no_order_manager.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\no_order_manager.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aatest_autolv_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\aatest_autolv_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\my_fg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\my_fg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_fragment_send_at_message_detail.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_fragment_send_at_message_detail.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_enlarge_enhanced_text.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_enlarge_enhanced_text.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aatest_immortal_vp_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\aatest_immortal_vp_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\consultant_detail_top_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\consultant_detail_top_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_item_time.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_item_time.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\order_detail.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\order_detail.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\fangchan_evaluate.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\fangchan_evaluate.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\apply_dk_fg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\apply_dk_fg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\popu_apply_loan_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\popu_apply_loan_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\upload_info.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\upload_info.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\city_textview_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\city_textview_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\step3_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\step3_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\order_setting_navi_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\order_setting_navi_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\my_orders.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\my_orders.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\one_wheelview.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\one_wheelview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\step2_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\step2_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\apply_status_by_pd_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\apply_status_by_pd_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\choose_guaranty.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\choose_guaranty.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_fast_send_photo_popup_window.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_fast_send_photo_popup_window.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\bank_service_detail_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\bank_service_detail_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\img_scroll_point_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\img_scroll_point_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_expand_view_pager_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_expand_view_pager_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_multi_image_player.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_multi_image_player.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_message_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_message_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\demo_conversation_custom_view_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\demo_conversation_custom_view_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\school_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\school_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_imageviewer.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_imageviewer.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\step1_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\step1_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\customer_confirm.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\customer_confirm.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\wheel_textview_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\wheel_textview_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_tribe_member_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_tribe_member_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\apply_loan_top_navi_view_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\apply_loan_top_navi_view_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_smily_radio.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_smily_radio.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\home_order_fg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\home_order_fg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\my_orders_list_item2.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\my_orders_list_item2.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_fragment_at_msg_list.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_fragment_at_msg_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_item_sendstate.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_item_sendstate.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\custom_board.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\custom_board.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\custom_board_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\custom_board_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_message_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_message_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\notification_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\notification_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\modify_pwd2.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\modify_pwd2.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\banner_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\banner_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\daikuan_type_alert.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\daikuan_type_alert.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_at_message_receive_item_title.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_at_message_receive_item_title.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\com_taobao_tae_sdk_web_view_menu.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\com_taobao_tae_sdk_web_view_menu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\feed_back.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\feed_back.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_smiley_detail_layout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_smiley_detail_layout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\school.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\school.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\apply_loan_top_navi_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\apply_loan_top_navi_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_template_audio_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_template_audio_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\open_guide.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\open_guide.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_default_chatting_title.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_default_chatting_title.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_template_horizontal_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_template_horizontal_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\bank_service_detail.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\bank_service_detail.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_cloud_chat_pwd_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_cloud_chat_pwd_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_chatting_detail_list.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_chatting_detail_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\hot_daikuan.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\hot_daikuan.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\no_data_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\no_data_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\hot_daikuan_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\hot_daikuan_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\apply_status_fg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\apply_status_fg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\top_score_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\top_score_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\consultant_banner_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\consultant_banner_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\identify_choose_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\identify_choose_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_template_flow_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_template_flow_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\tab_item_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\tab_item_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_common_simple_title.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_common_simple_title.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aatest_btmimg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\aatest_btmimg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\webview.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\city_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\city_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\apply_success_share.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\apply_success_share.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\order_setting_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\order_setting_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_tooltip_chatwindow_rec_funbar.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_tooltip_chatwindow_rec_funbar.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_imageview.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_imageview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\system_msg_list_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\system_msg_list_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_multi_pick_gallery.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_multi_pick_gallery.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\score_img_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\score_img_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_bak_at_list_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_common_popup_bg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_common_popup_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\date_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\consultant_detail.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\consultant_detail.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\order_manager_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\order_manager_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_at_message_receive_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_at_message_receive_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_record_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_record_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\score_mark_grid_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\score_mark_grid_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\weixin_login_result.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\layout\\weixin_login_result.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_template_webview_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_template_webview_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\localnotification_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_push_lib\\unspecified\\res\\layout\\localnotification_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\com_taobao_tae_sdk_web_view_title_bar.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\com_taobao_tae_sdk_web_view_title_bar.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\layout\\aliwx_member_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\layout\\aliwx_member_item.xml"
+    }
+]

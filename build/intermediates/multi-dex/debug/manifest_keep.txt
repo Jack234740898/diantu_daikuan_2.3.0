@@ -1,0 +1,90 @@
+-keep class com.sxjs.diantu_daikuan.MyApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.sxjs.diantu_daikuan.ui.activity.SplashActivity { <init>(); }
+-keep class com.apreparey.CarcreditActivity { <init>(); }
+-keep class com.apreparey.BuyHouseActivity { <init>(); }
+-keep class com.apreparey.MulitLoanActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.SlidingHomeActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.MainHomeActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.LoginRegActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.ForgetPwdActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.Reg1Activity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.Reg2Activity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.ModifyPwdActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.ModifyPwd2Activity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.SystemMsgActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.FeedBackActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.OpenGuideActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.WebviewActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.ChooseCityActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.AboutUsActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.DaikuanProductDetailActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.LoginActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.HotDaikuanCashInstallmentsActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.ConsultantDetailActiviy { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.CreditManagerDetailActiviy { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.MyInfoActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.MyDaikuanActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.ApplyLoanDetailActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.ScoreActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.DK_PD_DetailActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.ApplyLoanActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.service.IMLoginService { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.TestImgActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.ChooseGuarantyActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.ApplyDkActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.ApplySucessActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.ProvinceActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.SchoolActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.activity.UploadInfoActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.ui.receiver.NetBroadCastReciver { <init>(); }
+-keep class com.alibaba.sdk.android.webview.BaseWebViewActivity { <init>(); }
+-keep class com.alibaba.sdk.android.hotpatch.HotPatchBroadcastReceiver { <init>(); }
+-keep class com.alibaba.mobileim.ui.WxChattingActvity { <init>(); }
+-keep class com.alibaba.mobileim.ui.WxConversationActivity { <init>(); }
+-keep class com.alibaba.mobileim.ui.chat.MultiImageActivity { <init>(); }
+-keep class com.alibaba.mobileim.kit.imageviewer.ShowImageActivity { <init>(); }
+-keep class com.alibaba.mobileim.ui.multi.lightservice.MultiPickGalleryActivity { <init>(); }
+-keep class com.alibaba.mobileim.kit.CloudPwdSettingHintActivity { <init>(); }
+-keep class com.alibaba.mobileim.login.WaitProgresssActivity { <init>(); }
+-keep class com.alibaba.mobileim.ui.atmessage.AtMsgListActivity { <init>(); }
+-keep class com.alibaba.mobileim.ui.atmessage.SendAtMessageDetailActivity { <init>(); }
+-keep class com.alibaba.mobileim.kit.chat.SelectTribeMemberActivity { <init>(); }
+-keep class com.alibaba.mobileim.kit.chat.EnlargeChattingTextActivity { <init>(); }
+-keep class com.alibaba.tcms.service.MonitorActivity { <init>(); }
+-keep class com.amap.api.location.APSService { <init>(); }
+-keep class com.alibaba.mobileim.appmonitor.tiptool.TooltipService { <init>(); }
+-keep class com.alibaba.tcms.service.TCMSService { <init>(); }
+-keep class com.alibaba.tcms.service.ListenerService { <init>(); }
+-keep class com.umeng.message.NotificationProxyBroadcastReceiver { <init>(); }
+-keep class com.umeng.message.SystemReceiver { <init>(); }
+-keep class com.umeng.message.MessageReceiver { <init>(); }
+-keep class com.umeng.message.ElectionReceiver { <init>(); }
+-keep class com.umeng.message.RegistrationReceiver { <init>(); }
+-keep class com.umeng.message.BootBroadcastReceiver { <init>(); }
+-keep class com.umeng.message.UmengService { <init>(); }
+-keep class com.umeng.message.UmengIntentService { <init>(); }
+-keep class com.umeng.message.UmengMessageIntentReceiverService { <init>(); }
+-keep class com.push.MyPushIntentService { <init>(); }
+-keep class com.umeng.message.UmengDownloadResourceService { <init>(); }
+-keep class com.umeng.update.net.DownloadingService { <init>(); }
+-keep class com.umeng.update.UpdateDialogActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.wxapi.WXEntryActivity { <init>(); }
+-keep class com.sxjs.diantu_daikuan.WBShareActivity { <init>(); }
+-keep class com.sina.weibo.sdk.component.WeiboSdkBrowser { <init>(); }
+-keep class com.sina.weibo.sdk.net.DownloadService { <init>(); }
+-keep class com.tencent.tauth.AuthActivity { <init>(); }
+-keep class com.tencent.connect.common.AssistActivity { <init>(); }
+-keep class com.baidu.location.f { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor

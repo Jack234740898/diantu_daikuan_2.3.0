@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp" >
+
+    <com.immortalviewpager.AutoScrollViewPager
+        android:background="@color/gray"
+        android:id="@+id/vp"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:id="@+id/person_apply_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="90dp"
+        android:layout_marginRight="90dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/corner_home_apply_bg"
+            android:gravity="center"
+            android:paddingBottom="7dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp"
+            android:paddingTop="7dp"
+            android:text="立即申请贷款"
+            android:textColor="@color/white"
+            android:textSize="@dimen/title_size" />
+    </LinearLayout>
+
+</RelativeLayout>

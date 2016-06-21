@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\iamge_round_progress.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\anim\\iamge_round_progress.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_left_in.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\anim\\aliwx_slide_left_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\exit_out.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\anim\\exit_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_menu_in.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\anim\\aliwx_menu_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_menu_out.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\anim\\aliwx_menu_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_alpha_fade_in.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\anim\\aliwx_alpha_fade_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\zoomout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\anim\\zoomout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_in.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\progress_anim.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\anim\\progress_anim.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_new_msg_notify_slide_right_out.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\anim\\aliwx_new_msg_notify_slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\enter_in.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\anim\\enter_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\handmarkPulltorefreshLibrary-master\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\loading_animation.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\anim\\loading_animation.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\scale_anim.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\anim\\scale_anim.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\custom_item_anim.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\anim\\custom_item_anim.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\handmarkPulltorefreshLibrary-master\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\handmarkPulltorefreshLibrary-master\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_new_msg_notify_slide_right_in.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\anim\\aliwx_new_msg_notify_slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_out.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\layout_animation.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\anim\\layout_animation.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\handmarkPulltorefreshLibrary-master\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_right_out.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\anim\\aliwx_slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\zoomin.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\anim\\zoomin.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_alpha_fade_out.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\anim\\aliwx_alpha_fade_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_left_out.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\anim\\aliwx_slide_left_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\aliwx_slide_right_in.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\anim\\aliwx_slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    }
+]

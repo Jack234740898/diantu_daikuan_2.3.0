@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!--热门贷款详情字段-->
+    <string-array name="hot_daikuan_detail_name">
+        <item>额度范围</item>
+        <item>期限范围</item> 
+        <item>放款时间</item>
+        <item>还款方式</item>
+        <item>费用说明</item>
+    </string-array>
+    <!--现金分期详情字段-->
+    <string-array name="cash_term_detail_name">
+        <item>额度范围</item>
+        <item>分期范围</item> 
+        <item>放款时间</item>
+        <item>还款方式</item>
+        <item>费用说明</item>
+    </string-array>
+    
+    <!-- 单子详情页面   企业经营贷 11项-->
+    <string-array name="order_detail_company_dai_key">
+        <item>申请时间</item>
+        <item>贷款金额(元)</item>
+        <item>贷款期限(月)</item>
+        <item>贷款类型</item>
+        <item>城市</item>
+        <item>姓名</item>
+        <item>性别</item>
+        <item>企业名称</item>
+        
+        <item>年流水(万元)</item>
+        
+        <item>信用记录</item>
+        <item>负债情况</item>
+        <item>是否抵押</item>
+    </string-array>
+    <!-- 单子详情页面   个人消费贷 12项-->
+    <string-array name="order_detail_person_dai_key">
+        <item>申请时间</item>
+        <item>贷款金额(元)</item>
+        <item>贷款期限(月)</item>
+        <item>贷款类型</item>
+        <item>城市</item>
+        <item>姓名</item>
+        <item>性别</item>
+        <item>单位名称</item>
+        
+        <item>月打卡工资(元)</item>
+        <item>月现金工资(元)</item>
+        
+        <item>社保缴纳</item>
+        <item>信用记录</item>
+        <item>负债情况</item>
+        <item>是否抵押</item>
+    </string-array>
+    
+    <!-- 首页分类共8项-->
+    <string-array name="home_cate_name">
+        <item>买房首付</item>
+        <item>购买车辆</item>
+        <item>举办婚礼</item>
+        <item>新房装修</item>
+        <item>我要旅行</item>
+        <item>大额消费</item>
+        <item>生意周转</item>
+        <item>出国留学</item>        
+    </string-array>
+    
+    <!-- 首页身份分类共6项-->
+    <string-array name="home_workidentity_name">
+        <item>企业主</item>
+        <item>上班族</item>
+        <item>个体户</item>
+        <item>学生</item>
+        <item>公务员/事业编制</item>
+        <item>自由职业</item>     
+    </string-array>
+</resources>

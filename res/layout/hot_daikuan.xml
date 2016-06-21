@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/page_color">
+    
+    <include 
+        layout="@layout/headview"/>
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="贷款金额：5万  贷款期限：12个月"
+        android:gravity="center"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:textColor="@color/white"
+        android:textSize="13sp"
+        android:background="#fcae52"
+        android:id="@+id/title_text"/>
+    <include 
+        layout="@layout/common_pull_listview"/>
+</LinearLayout>

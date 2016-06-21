@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@color/white"
+        android:duplicateParentState="true" >
+
+        <RelativeLayout
+            android:id="@+id/left_rl"
+            android:layout_width="51dp"
+            android:layout_height="51dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp" >
+
+            <com.ui.view.RoundImageView
+                xmlns:imagecontrol="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/head_img"
+                android:layout_width="@dimen/head_mid_size"
+                android:layout_height="@dimen/head_mid_size"
+                android:layout_centerInParent="true"
+                android:background="@drawable/default_head"
+                imagecontrol:border_outside_color="@color/line_color"
+                imagecontrol:border_thickness="1dp"/>
+
+            <TextView
+                android:id="@+id/status_text"
+                android:layout_width="26.4dp"
+                android:layout_height="14.4dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/online_small_ico"
+                android:paddingBottom="1dp"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:paddingTop="1dp"
+                android:text=""
+                android:textColor="@color/white"
+                android:textSize="8sp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/left_rl"
+            android:orientation="vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp" >
+
+            <TextView
+                android:id="@+id/name_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="刘晓东"
+                android:textColor="@color/title_text_color"
+                android:textSize="@dimen/desc_size" />
+
+            <TextView
+                android:id="@+id/desc_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:singleLine="true"
+                android:text="掌握各方渠道"
+                android:textColor="@color/desc_text_color"
+                android:textSize="@dimen/desc_size" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="@dimen/divider_line_height"
+            android:layout_height="45dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="#ebebeb" />
+
+        <!-- <com.ui.view.WaterRippleView
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" 
+            app:wrv_radius="20dp"
+            app:wrv_strokewidth="5dp"
+            app:wrv_strokecolor="@color/line_color"
+            app:wrv_backgroundcolor="@color/line_color"
+            app:wrv_alpha="255"
+            app:wrv_circle_style="FILL_AND_STROKE"/> -->
+    </RelativeLayout>
+
+</LinearLayout>

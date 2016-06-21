@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/fangkuai_grayline_whitebg"
+    android:orientation="vertical" 
+    android:id="@+id/dk_pd_other_contents_ll">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:layout_width="4dp"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="12dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="12dp"
+            android:background="#ea544a" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="26dp"
+            android:layout_marginTop="10dp"
+            android:text="其他说明"
+            android:textColor="@color/black"
+            android:textSize="@dimen/title_size" />
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="12dp"
+            android:background="@drawable/down_arrow" 
+            android:id="@+id/other_contents_img"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divider_line_height"
+        android:background="@color/line_color" />
+
+    <TextView
+        android:id="@+id/other_contents_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+        android:background="@null"
+        android:padding="12dp"
+        android:textColor="@color/desc_text_color"
+        android:textSize="@dimen/desc_size"/>
+
+</LinearLayout>

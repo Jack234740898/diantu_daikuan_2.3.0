@@ -1,0 +1,1258 @@
+[
+    {
+        "outputFile": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 16,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 16,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 156,
+                    "endLine": 9,
+                    "endColumn": 16,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endLine": 9,
+                        "endColumn": 16,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endLine": 13,
+                    "endColumn": 16,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endLine": 13,
+                        "endColumn": 16,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endLine": 21,
+                    "endColumn": 16,
+                    "endOffset": 553
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endLine": 21,
+                        "endColumn": 16,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 558,
+                    "endLine": 25,
+                    "endColumn": 16,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endLine": 25,
+                        "endColumn": 16,
+                        "endOffset": 652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endLine": 40,
+                    "endColumn": 16,
+                    "endOffset": 996
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 657,
+                        "endLine": 40,
+                        "endColumn": 16,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1001,
+                    "endColumn": 39,
+                    "endOffset": 1036
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1001,
+                        "endColumn": 39,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1041,
+                    "endColumn": 39,
+                    "endOffset": 1076
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1041,
+                        "endColumn": 39,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1081,
+                    "endColumn": 39,
+                    "endOffset": 1116
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 39,
+                        "endOffset": 1116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1121,
+                    "endColumn": 57,
+                    "endOffset": 1174
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1121,
+                        "endColumn": 57,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1179,
+                    "endColumn": 55,
+                    "endOffset": 1230
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1179,
+                        "endColumn": 55,
+                        "endOffset": 1230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1235,
+                    "endColumn": 53,
+                    "endOffset": 1284
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1235,
+                        "endColumn": 53,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1289,
+                    "endColumn": 46,
+                    "endOffset": 1331
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1289,
+                        "endColumn": 46,
+                        "endOffset": 1331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1336,
+                    "endColumn": 49,
+                    "endOffset": 1381
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1336,
+                        "endColumn": 49,
+                        "endOffset": 1381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1386,
+                    "endColumn": 55,
+                    "endOffset": 1437
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1386,
+                        "endColumn": 55,
+                        "endOffset": 1437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1442,
+                    "endColumn": 38,
+                    "endOffset": 1476
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1442,
+                        "endColumn": 38,
+                        "endOffset": 1476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1481,
+                    "endColumn": 56,
+                    "endOffset": 1533
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1481,
+                        "endColumn": 56,
+                        "endOffset": 1533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1538,
+                    "endColumn": 33,
+                    "endOffset": 1567
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 1538,
+                        "endColumn": 33,
+                        "endOffset": 1567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1572,
+                    "endColumn": 45,
+                    "endOffset": 1613
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 1572,
+                        "endColumn": 45,
+                        "endOffset": 1613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1618,
+                    "endColumn": 39,
+                    "endOffset": 1653
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 1618,
+                        "endColumn": 39,
+                        "endOffset": 1653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1658,
+                    "endColumn": 35,
+                    "endOffset": 1689
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 1658,
+                        "endColumn": 35,
+                        "endOffset": 1689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1694,
+                    "endColumn": 49,
+                    "endOffset": 1739
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 1694,
+                        "endColumn": 49,
+                        "endOffset": 1739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 1744,
+                    "endColumn": 49,
+                    "endOffset": 1789
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 1744,
+                        "endColumn": 49,
+                        "endOffset": 1789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1794,
+                    "endColumn": 55,
+                    "endOffset": 1845
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 1794,
+                        "endColumn": 55,
+                        "endOffset": 1845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 1850,
+                    "endColumn": 47,
+                    "endOffset": 1893
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 1850,
+                        "endColumn": 47,
+                        "endOffset": 1893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 1898,
+                    "endColumn": 42,
+                    "endOffset": 1936
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 1898,
+                        "endColumn": 42,
+                        "endOffset": 1936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 1941,
+                    "endColumn": 47,
+                    "endOffset": 1984
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 1941,
+                        "endColumn": 47,
+                        "endOffset": 1984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 1989,
+                    "endColumn": 51,
+                    "endOffset": 2036
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 1989,
+                        "endColumn": 51,
+                        "endOffset": 2036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2041,
+                    "endColumn": 57,
+                    "endOffset": 2094
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2041,
+                        "endColumn": 57,
+                        "endOffset": 2094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2099,
+                    "endColumn": 58,
+                    "endOffset": 2153
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2099,
+                        "endColumn": 58,
+                        "endOffset": 2153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2158,
+                    "endColumn": 69,
+                    "endOffset": 2223
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2158,
+                        "endColumn": 69,
+                        "endOffset": 2223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2228,
+                    "endColumn": 63,
+                    "endOffset": 2287
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2228,
+                        "endColumn": 63,
+                        "endOffset": 2287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2292,
+                    "endColumn": 65,
+                    "endOffset": 2353
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2292,
+                        "endColumn": 65,
+                        "endOffset": 2353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2358,
+                    "endColumn": 60,
+                    "endOffset": 2414
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 2358,
+                        "endColumn": 60,
+                        "endOffset": 2414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2419,
+                    "endColumn": 56,
+                    "endOffset": 2471
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 2419,
+                        "endColumn": 56,
+                        "endOffset": 2471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2476,
+                    "endColumn": 55,
+                    "endOffset": 2527
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 2476,
+                        "endColumn": 55,
+                        "endOffset": 2527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2532,
+                    "endColumn": 42,
+                    "endOffset": 2570
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 2532,
+                        "endColumn": 42,
+                        "endOffset": 2570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2575,
+                    "endColumn": 44,
+                    "endOffset": 2615
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 2575,
+                        "endColumn": 44,
+                        "endOffset": 2615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 2620,
+                    "endColumn": 43,
+                    "endOffset": 2659
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 2620,
+                        "endColumn": 43,
+                        "endOffset": 2659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 2664,
+                    "endColumn": 37,
+                    "endOffset": 2697
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 2664,
+                        "endColumn": 37,
+                        "endOffset": 2697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 2702,
+                    "endColumn": 60,
+                    "endOffset": 2758
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 2702,
+                        "endColumn": 60,
+                        "endOffset": 2758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2763,
+                    "endColumn": 35,
+                    "endOffset": 2794
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 2763,
+                        "endColumn": 35,
+                        "endOffset": 2794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2799,
+                    "endColumn": 37,
+                    "endOffset": 2832
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 2799,
+                        "endColumn": 37,
+                        "endOffset": 2832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 2837,
+                    "endColumn": 57,
+                    "endOffset": 2890
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 2837,
+                        "endColumn": 57,
+                        "endOffset": 2890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2895,
+                    "endColumn": 52,
+                    "endOffset": 2943
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 2895,
+                        "endColumn": 52,
+                        "endOffset": 2943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 2948,
+                    "endColumn": 41,
+                    "endOffset": 2985
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 2948,
+                        "endColumn": 41,
+                        "endOffset": 2985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 2990,
+                    "endColumn": 40,
+                    "endOffset": 3026
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 2990,
+                        "endColumn": 40,
+                        "endOffset": 3026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3031,
+                    "endColumn": 42,
+                    "endOffset": 3069
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 3031,
+                        "endColumn": 42,
+                        "endOffset": 3069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3074,
+                    "endColumn": 50,
+                    "endOffset": 3120
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3074,
+                        "endColumn": 50,
+                        "endOffset": 3120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3125,
+                    "endColumn": 44,
+                    "endOffset": 3165
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 3125,
+                        "endColumn": 44,
+                        "endOffset": 3165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3170,
+                    "endColumn": 53,
+                    "endOffset": 3219
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 3170,
+                        "endColumn": 53,
+                        "endOffset": 3219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3224,
+                    "endColumn": 46,
+                    "endOffset": 3266
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3224,
+                        "endColumn": 46,
+                        "endOffset": 3266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3271,
+                    "endColumn": 39,
+                    "endOffset": 3306
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3271,
+                        "endColumn": 39,
+                        "endOffset": 3306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3311,
+                    "endColumn": 37,
+                    "endOffset": 3344
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3311,
+                        "endColumn": 37,
+                        "endOffset": 3344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3349,
+                    "endColumn": 56,
+                    "endOffset": 3401
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 3349,
+                        "endColumn": 56,
+                        "endOffset": 3401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3406,
+                    "endColumn": 36,
+                    "endOffset": 3438
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 3406,
+                        "endColumn": 36,
+                        "endOffset": 3438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3443,
+                    "endColumn": 49,
+                    "endOffset": 3488
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3443,
+                        "endColumn": 49,
+                        "endOffset": 3488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3493,
+                    "endColumn": 44,
+                    "endOffset": 3533
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3493,
+                        "endColumn": 44,
+                        "endOffset": 3533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3538,
+                    "endColumn": 41,
+                    "endOffset": 3575
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 3538,
+                        "endColumn": 41,
+                        "endOffset": 3575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 3580,
+                    "endColumn": 37,
+                    "endOffset": 3613
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 3580,
+                        "endColumn": 37,
+                        "endOffset": 3613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3618,
+                    "endColumn": 36,
+                    "endOffset": 3650
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 3618,
+                        "endColumn": 36,
+                        "endOffset": 3650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3655,
+                    "endColumn": 56,
+                    "endOffset": 3707
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 3655,
+                        "endColumn": 56,
+                        "endOffset": 3707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3712,
+                    "endColumn": 34,
+                    "endOffset": 3742
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 3712,
+                        "endColumn": 34,
+                        "endOffset": 3742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 3747,
+                    "endLine": 104,
+                    "endColumn": 12,
+                    "endOffset": 4033
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 3747,
+                        "endLine": 104,
+                        "endColumn": 12,
+                        "endOffset": 4033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4038,
+                    "endLine": 107,
+                    "endColumn": 12,
+                    "endOffset": 4193
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 4038,
+                        "endLine": 107,
+                        "endColumn": 12,
+                        "endOffset": 4193
+                    }
+                }
+            }
+        ]
+    }
+]

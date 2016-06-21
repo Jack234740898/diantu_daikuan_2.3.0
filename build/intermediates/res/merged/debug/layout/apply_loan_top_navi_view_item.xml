@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/top_navi_bg_height"
+    android:background="@color/white" 
+    android:id="@+id/item_root">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="申请状态"
+        android:textColor="@color/apply_loan_top_navi_view_textcolor" 
+        android:layout_centerInParent="true"
+        android:textSize="@dimen/navigate_text_size"
+        android:id="@+id/textview"/>
+
+    <ImageView 
+        android:layout_width="match_parent"
+        android:layout_height="1.5dp"
+        android:background="@color/orange_color"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/bottom_line_img"/>
+    <ImageView 
+        android:layout_width="@dimen/divider_line_height"
+        android:layout_height="30dp"
+        android:background="@color/line_color"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:id="@+id/right_line_img"/>
+</RelativeLayout>

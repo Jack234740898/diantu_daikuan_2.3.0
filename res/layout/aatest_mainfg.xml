@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/page_color" >
+
+    <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/pull_refresh_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        ptr:ptrAnimationStyle="flip"
+        ptr:ptrDrawable="@drawable/home_refresh_icon"
+        ptr:ptrHeaderTextColor="@color/white"
+        ptr:ptrMode="both" >
+
+        <LinearLayout
+            android:id="@+id/body"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <include layout="@layout/aatest_top_score_view" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="@color/page_color" />
+
+            <!-- Gv 贷款入口 -->
+
+            <com.ui.view.MeasureGridView
+                android:id="@+id/gridView_loan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:horizontalSpacing="10dp"
+                android:listSelector="@android:color/transparent"
+                android:numColumns="4"
+                android:verticalSpacing="10dp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.1dp"
+                android:background="@color/page_color" />
+
+            <!-- 贷款头条 滚动 -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="80dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center" >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="AAAAA" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="0.1dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@color/page_color" />
+
+                <com.ui.view.UnTouchListView
+                    android:id="@+id/lv_auto_scroll"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:listSelector="@android:color/transparent" />
+            </LinearLayout>
+
+            <!-- Banner -->
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <com.immortalviewpager.AutoScrollViewPager
+                    android:id="@+id/vp_banner"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:layout_weight="1"
+                    android:background="@color/gray" />
+
+                <LinearLayout
+                    android:id="@+id/btm"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_weight="0"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+                </LinearLayout>
+            </RelativeLayout>
+
+            <!-- 地图 -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <!-- 头部信息 -->
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/sss"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:paddingLeft="12dp"
+                        android:text="附近信贷经理"
+                        android:textColor="@color/title_text_color"
+                        android:textSize="@dimen/title_size" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_gravity="right"
+                        android:gravity="right" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_centerVertical="true"
+                            android:gravity="center"
+                            android:paddingLeft="12dp"
+                            android:text="贷款攻略"
+                            android:textColor="@color/gray"
+                            android:textSize="@dimen/title_size" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/ic_launcher" />
+                    </LinearLayout>
+                </RelativeLayout>
+                <!-- 地图 -->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:background="@color/red_orange_color" >
+                </LinearLayout>
+                <!-- 地图底部Item -->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:background="@color/refresh_orange_color" >
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- 实用工具 -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:paddingLeft="12dp"
+                    android:text="实用工具"
+                    android:textColor="@color/title_text_color"
+                    android:textSize="@dimen/title_size" />
+
+                <com.ui.view.MeasureGridView
+                    android:id="@+id/gridView_tools"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:horizontalSpacing="10dp"
+                    android:listSelector="@android:color/transparent"
+                    android:numColumns="4"
+                    android:verticalSpacing="10dp" />
+            </LinearLayout>
+
+            <!-- 贷款产品推荐 -->
+
+            <com.ui.view.MeasureListView
+                android:id="@+id/lv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:listSelector="@android:color/transparent" />
+
+            <include layout="@layout/cash_installments_view" />
+        </LinearLayout>
+    </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+
+    <include layout="@layout/aatest_mainhometitle" />
+
+</FrameLayout>

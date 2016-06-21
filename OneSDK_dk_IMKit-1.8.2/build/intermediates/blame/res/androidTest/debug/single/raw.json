@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\aliwx_play_completed.mp3",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\build\\intermediates\\bundles\\debug\\res\\raw\\aliwx_play_completed.mp3"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\aliwx_sent.mp3",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\build\\intermediates\\bundles\\debug\\res\\raw\\aliwx_sent.mp3"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\aliwx_itemmatch.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\build\\intermediates\\bundles\\debug\\res\\raw\\aliwx_itemmatch.xml"
+    }
+]

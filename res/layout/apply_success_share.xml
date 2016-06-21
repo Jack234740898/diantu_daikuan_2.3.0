@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/share_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="130dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/share_dk" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:gravity="center_horizontal"
+        android:lineSpacingExtra="4dp"
+        android:text="分享电兔贷款APP\n即可得到贷款经理的优先咨询"
+        android:textColor="@color/desc_text_color"
+        android:textSize="@dimen/desc_size" />
+
+    <TextView
+        android:id="@+id/share_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/corner_orange_red_bg"
+        android:gravity="center_horizontal"
+        android:paddingBottom="9dp"
+        android:paddingTop="9dp"
+        android:text="立即分享  获得优先咨询"
+        android:textColor="@color/white"
+        android:textSize="@dimen/title_size" />
+
+    <TextView
+        android:id="@+id/back_home_text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/corner_orange_red_line_white_bg"
+        android:gravity="center_horizontal"
+        android:paddingBottom="9dp"
+        android:paddingLeft="32dp"
+        android:paddingRight="32dp"
+        android:paddingTop="9dp"
+        android:text="返回首页"
+        android:textColor="@color/orange_red_text"
+        android:textSize="@dimen/title_size" />
+
+</LinearLayout>

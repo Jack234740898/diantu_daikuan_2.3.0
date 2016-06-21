@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/no_order_manager_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/page_color"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="55dp"
+        android:layout_height="76dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/tuzi_white" />
+
+    <TextView
+        android:id="@+id/notice_num_text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="10dp"
+        android:text="您还没有申请贷款,快去发个申请试一下吧"
+        android:textColor="@color/desc_text_color"
+        android:textSize="@dimen/desc_size" />
+
+    <TextView
+        android:id="@+id/apply_loan_text"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/text_bg_height"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/corner_orange_red_bg"
+        android:gravity="center"
+        android:text="申请贷款"
+        android:textColor="@color/white"
+        android:textSize="@dimen/desc_size" />
+
+</LinearLayout>

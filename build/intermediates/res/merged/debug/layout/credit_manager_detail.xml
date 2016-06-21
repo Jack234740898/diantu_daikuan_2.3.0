@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/page_color" 
+    android:id="@+id/root">
+
+    <!-- com.sxjs.diantu_daikuan.ui.view.VpagerScrollView 
+            android:fillViewport="true"-->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none" 
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" 
+            android:id="@+id/body">
+
+            <include layout="@layout/credit_manager_detail_top_view" />
+
+            <include layout="@layout/manager_detail_navi_view" />
+
+            <com.ui.view.AutoHeightViewPager
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" 
+                android:id="@+id/viewpager"
+                android:background="@color/white"/>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/fangkuai_grayline_graybg" >
+
+        <TextView
+            android:id="@+id/call_phone_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/corner_call_phone_bg"
+            android:gravity="center"
+            android:paddingBottom="@dimen/bottom_margin"
+            android:paddingTop="@dimen/top_margin"
+            android:text="给他打电话"
+            android:textColor="@color/orange_red_text"
+            android:textSize="@dimen/desc_size" />
+
+        <TextView
+            android:id="@+id/send_msg_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/corner_send_msg_bg"
+            android:gravity="center"
+            android:paddingBottom="@dimen/bottom_margin"
+            android:paddingTop="@dimen/top_margin"
+            android:text="给他发消息"
+            android:textColor="@color/white"
+            android:textSize="@dimen/desc_size" />
+    </LinearLayout>
+
+</RelativeLayout>

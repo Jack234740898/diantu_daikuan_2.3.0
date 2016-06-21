@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="alisdk-security-8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OneSDK_dk_IMKit-1.8.2/libs/alisdk-security-8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

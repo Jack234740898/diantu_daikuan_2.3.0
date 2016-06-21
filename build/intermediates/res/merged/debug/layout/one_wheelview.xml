@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_click_selector"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:alpha="1.0"
+        android:background="@drawable/corner_white_bg"
+        android:clickable="true"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/title_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="选择还款方式"
+            android:textColor="@color/title_text_color"
+            android:textSize="@dimen/title_size" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/orange_red_text" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="0dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:paddingBottom="0dp"
+            android:visibility="visible" >
+
+            <kankan.wheel.widget.WheelView
+                android:id="@+id/wheelView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/orange_red_text" />
+
+
+        <TextView
+            android:id="@+id/confirm_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="完成"
+            android:textColor="@color/title_text_color"
+            android:textSize="@dimen/title_size" />
+    </LinearLayout>
+
+</LinearLayout>

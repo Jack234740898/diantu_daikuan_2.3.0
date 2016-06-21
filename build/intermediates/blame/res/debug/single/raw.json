@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\raw\\aliwx_itemmatch.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\raw\\aliwx_itemmatch.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\raw\\aliwx_play_completed.mp3",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\raw\\aliwx_play_completed.mp3"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\raw\\umeng_push_notification_default_sound.mp3",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\raw\\umeng_push_notification_default_sound.mp3"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\raw\\xinwenlianbo.mp3",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\raw\\xinwenlianbo.mp3"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\raw\\aliwx_sent.mp3",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\raw\\aliwx_sent.mp3"
+    }
+]

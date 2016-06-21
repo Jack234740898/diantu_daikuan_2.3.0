@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "E:\\workspace\\diantu_daikuan_2.3.0\\immortalviewpager\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\immortalviewpager\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\immortalviewpager\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\immortalviewpager\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 52,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 54,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\immortalviewpager\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 54,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 52,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\immortalviewpager\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 52,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 617
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\immortalviewpager\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 529,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 622,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "E:\\workspace\\diantu_daikuan_2.3.0\\immortalviewpager\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 349
+                    }
+                }
+            }
+        ]
+    }
+]

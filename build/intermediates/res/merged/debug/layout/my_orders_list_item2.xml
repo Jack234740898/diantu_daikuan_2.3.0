@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/fangkuai_grayline_whitebg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="信用贷 5万"
+            android:textColor="@color/title_text_color"
+            android:textSize="@dimen/title_size"
+            android:id="@+id/title_text" />
+
+        <TextView
+            android:id="@+id/time_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:padding="10dp"
+            android:text="3小时前"
+            android:textColor="@color/desc_text_color"
+            android:textSize="@dimen/desc_size" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divider_line_height"
+        android:background="@color/line_color" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <com.ui.view.CircularImage
+            android:id="@+id/head_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/name_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="张海燕"
+                android:textColor="@color/title_text_color"
+                android:textSize="@dimen/title_size" />
+
+            <TextView
+                android:id="@+id/desc_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="有房车，月入800"
+                android:textColor="@color/desc_text_color"
+                android:textSize="@dimen/desc_size" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="10dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divider_line_height"
+        android:background="@color/line_color" />
+
+    <TextView
+        android:id="@+id/bottom_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center_vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:text="标记已放款"
+        android:textColor="@color/orange_red_text"
+        android:textSize="@dimen/desc_size"
+        android:background="@drawable/corner_blue_line_white_bg" 
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"/>
+
+</LinearLayout>

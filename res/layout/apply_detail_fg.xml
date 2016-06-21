@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/page_color"
+    android:orientation="vertical" >
+
+    <com.ui.view.MyScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/navi_intro_ll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/fangkuai_grayline_whitebg"
+                android:orientation="horizontal"
+                android:visibility="visible" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.0"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:paddingTop="10dp"
+                        android:text="贷款金额(元)"
+                        android:textColor="@color/desc_text_color"
+                        android:textSize="@dimen/desc_size" />
+
+                    <TextView
+                        android:id="@+id/title1_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:paddingTop="5dp"
+                        android:text=""
+                        android:textColor="@color/orange_red_text"
+                        android:textSize="@dimen/desc_size" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.0"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/title2_key_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:paddingTop="10dp"
+                        android:text="贷款期限(月)"
+                        android:textColor="@color/desc_text_color"
+                        android:textSize="@dimen/desc_size" />
+
+                    <TextView
+                        android:id="@+id/title2_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:paddingTop="5dp"
+                        android:text=""
+                        android:textColor="@color/title_text_color"
+                        android:textSize="@dimen/desc_size" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.0"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:paddingTop="10dp"
+                        android:text="贷款类型"
+                        android:textColor="@color/desc_text_color"
+                        android:textSize="@dimen/desc_size" />
+
+                    <TextView
+                        android:id="@+id/title3_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:paddingTop="5dp"
+                        android:text=""
+                        android:textColor="@color/title_text_color"
+                        android:textSize="@dimen/desc_size" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/detail_group"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="70dp" />
+        </LinearLayout>
+    </com.ui.view.MyScrollView>
+
+</LinearLayout>

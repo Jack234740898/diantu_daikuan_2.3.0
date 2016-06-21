@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/barcode_card_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/orange_color">
+
+    <LinearLayout
+        android:id="@+id/barcodecard_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="20dp"
+        android:background="@android:color/background_light"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/barcodecard_image"
+                android:layout_width="82dp"
+                android:layout_height="82dp"
+                android:layout_margin="10dp"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:layout_toRightOf="@id/barcodecard_image"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/barcodecard_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:id="@+id/barcodecard_hospital"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textColor="@color/orange_color"
+                    android:textSize="16dp" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/barcode_barcode"
+            android:layout_width="fill_parent"
+            android:layout_height="280dp"
+            android:onClick="onClick"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/label_nick"
+                android:textColor="@color/orange_color"
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/barcodecard_nick"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/orange_color"
+                android:textSize="16dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

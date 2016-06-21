@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:background="@color/orange_red_bg"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/person_apply_ll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="90dp"
+            android:layout_marginRight="90dp"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="10dp"
+                android:visibility="gone" >
+
+                <TextView
+                    android:id="@+id/top_person_dai_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="6dp"
+                    android:layout_marginRight="6dp"
+                    android:text="个人消费贷款"
+                    android:textColor="@color/white"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0.7dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toLeftOf="@id/top_person_dai_text"
+                    android:background="@color/white" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0.7dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:layout_toRightOf="@id/top_person_dai_text"
+                    android:background="@color/white" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/home_score_height"
+                android:layout_marginTop="25dp"
+                android:orientation="horizontal" >
+
+                <com.ui.view.CountTextView
+                    android:id="@+id/top_person_num1_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/top_num_bg"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textColor="@color/orange_red_text"
+                    android:textSize="@dimen/home_score_size"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="7dp"
+                    android:layout_height="30dp" />
+
+                <com.ui.view.CountTextView
+                    android:id="@+id/top_person_num2_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/top_num_bg"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textColor="@color/orange_red_text"
+                    android:textSize="@dimen/home_score_size"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="7dp"
+                    android:layout_height="30dp" />
+
+                <com.ui.view.CountTextView
+                    android:id="@+id/top_person_num3_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/top_num_bg"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textColor="@color/orange_red_text"
+                    android:textSize="@dimen/home_score_size"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="7dp"
+                    android:layout_height="30dp" />
+
+                <com.ui.view.CountTextView
+                    android:id="@+id/top_person_num4_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/top_num_bg"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textColor="@color/orange_red_text"
+                    android:textSize="@dimen/home_score_size"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="7dp"
+                    android:layout_height="30dp" />
+
+                <com.ui.view.CountTextView
+                    android:id="@+id/top_person_num5_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/top_num_bg"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textColor="@color/orange_red_text"
+                    android:textSize="@dimen/home_score_size"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="位信贷经理在线"
+                android:textColor="@color/white"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="12dp"
+                android:background="@drawable/corner_home_apply_bg"
+                android:gravity="center"
+                android:paddingBottom="7dp"
+                android:paddingLeft="0dp"
+                android:paddingRight="0dp"
+                android:paddingTop="7dp"
+                android:text="立即申请贷款"
+                android:textColor="@color/white"
+                android:textSize="@dimen/title_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/company_apply_ll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/top_company_dai"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginTop="15dp" >
+
+                <TextView
+                    android:id="@+id/top_company_dai_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="6dp"
+                    android:layout_marginRight="6dp"
+                    android:text="企业经营贷款"
+                    android:textColor="@color/white"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0.7dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toLeftOf="@id/top_company_dai_text"
+                    android:background="@color/white" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0.7dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:layout_toRightOf="@id/top_company_dai_text"
+                    android:background="@color/white" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="horizontal" >
+
+                <com.ui.view.CountTextView
+                    android:id="@+id/top_company_num1_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_centerInParent="true"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/top_num_bg"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textColor="@color/orange_text"
+                    android:textSize="22sp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="7dp"
+                    android:layout_height="30dp" />
+
+                <com.ui.view.CountTextView
+                    android:id="@+id/top_company_num2_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_centerInParent="true"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/top_num_bg"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textColor="@color/orange_text"
+                    android:textSize="22sp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="7dp"
+                    android:layout_height="30dp" />
+
+                <com.ui.view.CountTextView
+                    android:id="@+id/top_company_num3_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_centerInParent="true"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/top_num_bg"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textColor="@color/orange_text"
+                    android:textSize="22sp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="7dp"
+                    android:layout_height="30dp" />
+
+                <com.ui.view.CountTextView
+                    android:id="@+id/top_company_num4_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_centerInParent="true"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/top_num_bg"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textColor="@color/orange_text"
+                    android:textSize="22sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="位信贷经理在线"
+                android:textColor="@color/white"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/corner_whiteline_transparent_bg"
+                android:gravity="center"
+                android:paddingBottom="5dp"
+                android:paddingLeft="0dp"
+                android:paddingRight="0dp"
+                android:paddingTop="5dp"
+                android:text="立即申请"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+        </LinearLayout>
+        <!-- 20  5 -->
+
+        <ImageView
+            android:id="@+id/right_cloud_img"
+            android:layout_width="121dp"
+            android:layout_height="30.8dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/cloud_alpha" />
+
+        <ImageView
+            android:id="@+id/left_cloud_img"
+            android:layout_width="121dp"
+            android:layout_height="30.8dp"
+            android:layout_marginTop="83dp"
+            android:background="@drawable/cloud_alpha" />
+        <ImageView
+            android:id="@+id/home_tree_bg_img"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/home_tree_bg" 
+            android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+
+</LinearLayout>

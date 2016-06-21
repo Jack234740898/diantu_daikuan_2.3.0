@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:paddingLeft="12dp"
+            android:text="北京市"
+            android:textColor="@color/title_text_color"
+            android:textSize="@dimen/desc_size" />
+
+        <ImageView
+            android:id="@+id/school_checked"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="12dp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divider_line_height"
+        android:layout_marginLeft="12dp"
+        android:background="@color/line_color" />
+
+</LinearLayout>

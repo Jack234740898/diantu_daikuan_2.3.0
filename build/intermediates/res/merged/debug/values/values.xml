@@ -1,0 +1,2102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="cash_term_detail_name">
+        <item>额度范围</item>
+        <item>分期范围</item> 
+        <item>放款时间</item>
+        <item>还款方式</item>
+        <item>费用说明</item>
+    </string-array>
+    <string-array name="home_cate_name">
+        <item>买房首付</item>
+        <item>购买车辆</item>
+        <item>举办婚礼</item>
+        <item>新房装修</item>
+        <item>我要旅行</item>
+        <item>大额消费</item>
+        <item>生意周转</item>
+        <item>出国留学</item>        
+    </string-array>
+    <string-array name="home_workidentity_name">
+        <item>企业主</item>
+        <item>上班族</item>
+        <item>个体户</item>
+        <item>学生</item>
+        <item>公务员/事业编制</item>
+        <item>自由职业</item>     
+    </string-array>
+    <string-array name="hot_daikuan_detail_name">
+        <item>额度范围</item>
+        <item>期限范围</item> 
+        <item>放款时间</item>
+        <item>还款方式</item>
+        <item>费用说明</item>
+    </string-array>
+    <string-array name="order_detail_company_dai_key">
+        <item>申请时间</item>
+        <item>贷款金额(元)</item>
+        <item>贷款期限(月)</item>
+        <item>贷款类型</item>
+        <item>城市</item>
+        <item>姓名</item>
+        <item>性别</item>
+        <item>企业名称</item>
+        
+        <item>年流水(万元)</item>
+        
+        <item>信用记录</item>
+        <item>负债情况</item>
+        <item>是否抵押</item>
+    </string-array>
+    <string-array name="order_detail_person_dai_key">
+        <item>申请时间</item>
+        <item>贷款金额(元)</item>
+        <item>贷款期限(月)</item>
+        <item>贷款类型</item>
+        <item>城市</item>
+        <item>姓名</item>
+        <item>性别</item>
+        <item>单位名称</item>
+        
+        <item>月打卡工资(元)</item>
+        <item>月现金工资(元)</item>
+        
+        <item>社保缴纳</item>
+        <item>信用记录</item>
+        <item>负债情况</item>
+        <item>是否抵押</item>
+    </string-array>
+    <string-array name="playLights">
+	    <item>true</item>
+	    <item>false</item>
+	</string-array>
+    <string-array name="playSound">
+	    <item>true</item>
+	    <item>false</item>
+	</string-array>
+    <string-array name="playVibrate">
+	    <item>true</item>
+	    <item>false</item>
+	</string-array>
+    <string-array name="repeatingUnit">
+	    <item>年</item>  
+	    <item>月</item>  
+	    <item selected="true">日</item>
+		<item>小时</item>  
+	    <item>分钟</item>  
+	    <item>秒</item>
+	</string-array>
+    <string-array name="screenOn">
+	    <item>true</item>
+	    <item>false</item>
+	</string-array>
+    <string-array name="specialDay">  
+	    <item/>
+	    <item>元旦</item>  
+	    <item>除夕</item>    
+	    <item>春节</item>  
+	    <item>元宵节</item>
+	    <item>清明节</item>
+	    <item>劳动节</item>    
+	    <item>端午节</item>
+		<item>七夕节</item>  
+	    <item>中秋节</item>
+	    <item>国庆节</item>   
+	    <item>重阳节</item>
+	    <item>腊八节</item>
+	</string-array>
+    <attr format="reference" name="aliwx_bg_color"/>
+    <attr format="reference" name="aliwx_chatbottom_bg"/>
+    <attr format="reference" name="aliwx_chatbottom_expand"/>
+    <attr format="reference" name="aliwx_chatbottom_record"/>
+    <attr format="reference" name="aliwx_chatbottom_smily"/>
+    <attr format="reference" name="aliwx_chatcontent_left_textcolor"/>
+    <attr format="reference" name="aliwx_chatcontent_left_textsize"/>
+    <attr format="reference" name="aliwx_chatcontent_right_textcolor"/>
+    <attr format="reference" name="aliwx_chatcontent_right_textsize"/>
+    <attr format="reference" name="aliwx_chattime_bg"/>
+    <attr format="reference" name="aliwx_comment_left_bg"/>
+    <attr format="reference" name="aliwx_comment_right_bg"/>
+    <attr format="reference" name="aliwx_cvscontent_textcolor"/>
+    <attr format="reference" name="aliwx_cvscontent_textsize"/>
+    <attr format="reference" name="aliwx_cvsname_textcolor"/>
+    <attr format="reference" name="aliwx_cvsnname_textsize"/>
+    <attr format="reference" name="aliwx_cvstime_textcolor"/>
+    <attr format="reference" name="aliwx_cvstime_textsize"/>
+    <attr format="reference" name="aliwx_divider_color"/>
+    <attr format="reference" name="aliwx_divider_height"/>
+    <attr format="reference" name="aliwx_record_btn_bg"/>
+    <attr format="reference" name="aliwx_title_backgroud"/>
+    <attr format="reference" name="aliwx_title_left_icon"/>
+    <attr format="reference" name="aliwx_title_left_text"/>
+    <attr format="reference" name="aliwx_title_left_textcolor"/>
+    <attr format="reference" name="aliwx_title_left_textsize"/>
+    <attr format="reference" name="aliwx_title_leftbutton_visible"/>
+    <attr format="reference" name="aliwx_title_rightbutton_visible"/>
+    <attr format="reference" name="aliwx_title_textcolor"/>
+    <attr format="reference" name="aliwx_title_textsize"/>
+    <color name="aliwx_bg_color_white">#ffffff</color>
+    <color name="aliwx_black">#ff000000</color>
+    <color name="aliwx_chatting_detail_sysmsg_color">#FFFFFFFF</color>
+    <color name="aliwx_circle_color">#80000000</color>
+    <color name="aliwx_color_blue">#00b4ff</color>
+    <color name="aliwx_color_blue_dark">#212c33</color>
+    <color name="aliwx_color_blue_dark_with_alpha">#b2212c33</color>
+    <color name="aliwx_color_blue_light">#535A60</color>
+    <color name="aliwx_color_gray_01">#525252</color>
+    <color name="aliwx_color_gray_02">#999999</color>
+    <color name="aliwx_color_gray_03">#CCCCCC</color>
+    <color name="aliwx_color_white">#ffffff</color>
+    <color name="aliwx_column_bg_color_pressed">#dddddd</color>
+    <color name="aliwx_common_alpha_black">#99000000</color>
+    <color name="aliwx_common_bg_blue_color">#00b4ff</color>
+    <color name="aliwx_common_bg_color">#F0F0F0</color>
+    <color name="aliwx_common_bg_white_color">#f9f9f9</color>
+    <color name="aliwx_common_button_disable_text_color">#bbbbbb</color>
+    <color name="aliwx_common_color_blue">#0894ec</color>
+    <color name="aliwx_common_line_color">#cccccc</color>
+    <color name="aliwx_common_text_color">#ff333333</color>
+    <color name="aliwx_common_text_color2">#ff666666</color>
+    <color name="aliwx_common_text_color3">#999999</color>
+    <color name="aliwx_common_text_color4">#999999</color>
+    <color name="aliwx_common_text_color_blue">#00b4ff</color>
+    <color name="aliwx_contacts_tab_color">#f8f8f8</color>
+    <color name="aliwx_conversation_pressed_bg_color">#f5f5f5</color>
+    <color name="aliwx_conversation_unpressed_bg_color">#ffffff</color>
+    <color name="aliwx_cv_content_color">#d0d0d0</color>
+    <color name="aliwx_default_image_color">#ffc2c5cb</color>
+    <color name="aliwx_default_indicator_fill_color">#999999</color>
+    <color name="aliwx_default_indicator_page_color">#CCCCCC</color>
+    <color name="aliwx_default_indicator_stroke_color">#999999</color>
+    <color name="aliwx_divider_color">#E9E9E9</color>
+    <color name="aliwx_first_grade_color">#000000</color>
+    <color name="aliwx_grey_btn_default">#cccccc</color>
+    <color name="aliwx_halftransparent">#7F000000</color>
+    <color name="aliwx_holo_orange_light">#ffffbb33</color>
+    <color name="aliwx_maintab_background">#373b3b</color>
+    <color name="aliwx_multi_image_line">#7fcccccc</color>
+    <color name="aliwx_multi_image_title_bg">#B2f9f9f9</color>
+    <color name="aliwx_order_grey_color">#FFA9A9A9</color>
+    <color name="aliwx_order_price_color">#ff0000</color>
+    <color name="aliwx_record_bottom_text_color">#6d6d6d</color>
+    <color name="aliwx_record_color">#d7d7d7</color>
+    <color name="aliwx_refresh_head_color">#505253</color>
+    <color name="aliwx_right_sliding_text_color">#ff333333</color>
+    <color name="aliwx_rim_color">#80626262</color>
+    <color name="aliwx_second_grade_color">#7F7F7F</color>
+    <color name="aliwx_setting_bg_nor">#ffffff</color>
+    <color name="aliwx_setting_bg_p">#f5f5f5</color>
+    <color name="aliwx_setting_grey_bg_nor">#F0F0F0</color>
+    <color name="aliwx_setting_line_color">#cccccc</color>
+    <color name="aliwx_share_form_color">#8A8B8C</color>
+    <color name="aliwx_tab_normal_color">#666666</color>
+    <color name="aliwx_text_color_at_notify">#dd191d</color>
+    <color name="aliwx_text_color_at_unread">#00b4ff</color>
+    <color name="aliwx_text_color_black">#000000</color>
+    <color name="aliwx_text_color_blue">#00b4ff</color>
+    <color name="aliwx_text_color_gray">#bebec0</color>
+    <color name="aliwx_text_color_link">#3366FF</color>
+    <color name="aliwx_third_grade_color">#A9A9A9</color>
+    <color name="aliwx_third_text_color">#999999</color>
+    <color name="aliwx_time_text_background">#dddddd</color>
+    <color name="aliwx_title_bar_shadow_color">#cccccc</color>
+    <color name="aliwx_top_conversation_pressed_bg_color">#f5f5f5</color>
+    <color name="aliwx_top_grade_color">#ffffff</color>
+    <color name="aliwx_transparent_bg_gray_color">#303234</color>
+    <color name="aliwx_white">#ffffffff</color>
+    <color name="aliwx_white_btn_text_color">#8E8E8E</color>
+    <color name="aliwx_wq_common_button_disable_color">#e6e6e6</color>
+    <color name="aliwx_wq_common_green_button_color">#5dc4cb</color>
+    <color name="aliwx_wq_common_green_button_press_color">#339ba3</color>
+    <color name="aliwx_wq_common_grey_button_color">#cccccc</color>
+    <color name="aliwx_wq_common_grey_button_press_color">#acacac</color>
+    <color name="aliwx_wxtribe_title_color">#333333</color>
+    <color name="apply_loan_hint_value_color">#e0e0e0</color>
+    <color name="apply_loan_name_color">#757575</color>
+    <color name="apply_loan_value_color">#333333</color>
+    <color name="backColor">#22000000</color>
+    <color name="black">#000000</color>
+    <color name="black_50_alpha">#88000000</color>
+    <color name="black_gray">#37444A</color>
+    <color name="blue">#fb635a</color>
+    <color name="blue_bg_color">#5b9fe1</color>
+    <color name="blue_color">#fb635a</color>
+    <color name="blue_text">#008EFF</color>
+    <color name="blue_text_color">#5b9fe1</color>
+    <color name="border_gray">#ffcccccc</color>
+    <color name="color1">#8695f1</color>
+    <color name="color2">#ff4f57</color>
+    <color name="color3">#3ec78b</color>
+    <color name="color4">#ffc600</color>
+    <color name="color5">#ff8208</color>
+    <color name="color6">#5b9fe2</color>
+    <color name="color_cihei">#ff333333</color>
+    <color name="color_hei">#ff000000</color>
+    <color name="color_hei_8">#00000000</color>
+    <color name="color_shenhui">#ff999999</color>
+    <color name="color_zhonghui">#ff798089</color>
+    <color name="com_facebook_blue">#3B5998</color>
+    <color name="com_facebook_button_background_color">#415dae</color>
+    <color name="com_facebook_button_background_color_disabled">#bdc1c9</color>
+    <color name="com_facebook_button_background_color_pressed">#2f477a</color>
+    <color name="com_facebook_button_like_background_color_selected">#7c8fc8</color>
+    <color name="com_facebook_button_login_silver_background_color">#f4f6f8</color>
+    <color name="com_facebook_button_login_silver_background_color_pressed">#e9eaf0</color>
+    <color name="com_facebook_button_send_background_color">#0084ff</color>
+    <color name="com_facebook_button_send_background_color_pressed">#006fff</color>
+    <color name="com_facebook_likeboxcountview_border_color">#6a7180</color>
+    <color name="com_facebook_likeboxcountview_text_color">#6a7180</color>
+    <color name="com_facebook_likeview_text_color">#6a7180</color>
+    <color name="com_facebook_share_button_text_color">#FFFFFF</color>
+    <color name="comment_bg">#fff8fbf8</color>
+    <color name="comment_hint">#ff979aa0</color>
+    <color name="comment_replay_bg">#ffedeeee</color>
+    <color name="comment_title">#ff3f454d</color>
+    <color name="comment_toolbar_hint">#ffced5db</color>
+    <color name="common_bg">#fff4f4f4</color>
+    <color name="common_text_color">#535353</color>
+    <color name="community_auth_bg">#fff8f8f8</color>
+    <color name="community_bg">#ffe4e8eb</color>
+    <color name="community_blue_bg">#ff009fd3</color>
+    <color name="community_blue_text">#ff50cffa</color>
+    <color name="community_detail_user_info_bg">#ff373737</color>
+    <color name="community_show_times_bg">#ffeff3f4</color>
+    <color name="content">#ff444444</color>
+    <color name="corn_flower_blue">#6495ED</color>
+    <color name="dark">#e0000000</color>
+    <color name="dark_gray">#A5A5A5</color>
+    <color name="dark_orange_color">#FF6600</color>
+    <color name="dark_white">#ffd0d0d0</color>
+    <color name="deep_sky_blue_color">#00BFFF</color>
+    <color name="defaultTextColor">#ff666666</color>
+    <color name="desc_text_color">#666666</color>
+    <color name="detail_bgColor">#fff8f8f8</color>
+    <color name="details_panel_separator">#ffbebebe</color>
+    <color name="divider_light">#ffd1d3d3</color>
+    <color name="dodger_blue">#1E90FF</color>
+    <color name="edit_text_color">#5b9fe2</color>
+    <color name="edit_text_color_hint">#a5a5a5</color>
+    <color name="empty_txt_color">#ffa5acb2</color>
+    <color name="gray">#66666666</color>
+    <color name="gray_3">#ff333333</color>
+    <color name="gray_4">#ff444444</color>
+    <color name="gray_b4">#ffb4b4b4</color>
+    <color name="gray_bg">#ffefefef</color>
+    <color name="gray_dark">#ffd6d6d6</color>
+    <color name="green">#00ff00</color>
+    <color name="guide_page_1_bg">#ff2ec49b</color>
+    <color name="guide_page_2_bg">#ff3fb8d6</color>
+    <color name="guide_page_3_bg">#fffd7570</color>
+    <color name="have_read_color">#999999</color>
+    <color name="headview_color">#FAFCFF</color>
+    <color name="image_border">#ffd4d4d4</color>
+    <color name="light_gray">#e1e1e1</color>
+    <color name="light_green_color">#09ba6a</color>
+    <color name="light_red_color">#e67585</color>
+    <color name="light_sea_green">#20B2AA</color>
+    <color name="light_yellow">#E4EECE</color>
+    <color name="line_color">#e5e5e5</color>
+    <color name="list_divider">#ffd0d0d0</color>
+    <color name="login_color">#ec6131</color>
+    <color name="main_blue_light">#ff33b5e5</color>
+    <color name="main_color">#50484b</color>
+    <color name="maxblack">#383635</color>
+    <color name="medium_aqua_marine">#66CDAA</color>
+    <color name="midblack">#6A6A6C</color>
+    <color name="minblack">#ADACAC</color>
+    <color name="orange_color">#ff6600</color>
+    <color name="orange_red_bg">#ed4545</color>
+    <color name="orange_red_color">#fb635a</color>
+    <color name="orange_red_text">#ed4545</color>
+    <color name="orange_text">#FF9300</color>
+    <color name="orange_yellow_color">#fba43d</color>
+    <color name="page_color">#F5F5F9</color>
+    <color name="person_center_text_color">#4b4e55</color>
+    <color name="red">#ff990000</color>
+    <color name="red_orange_color">#EA544A</color>
+    <color name="red_text_color">#ff0000</color>
+    <color name="refresh_brown_color">#666600</color>
+    <color name="refresh_green_color">#33FF66</color>
+    <color name="refresh_orange_color">#FF6600</color>
+    <color name="refresh_sky_blue_color">#3399FF</color>
+    <color name="reg_kuang_color">#EA544A</color>
+    <color name="salary_color">#ea544a</color>
+    <color name="same_app_item_bg">#ffe9ebea</color>
+    <color name="search_hint">#ffb1b6c0</color>
+    <color name="search_item_pressed">#ffe0e3e8</color>
+    <color name="setting_more">#ff878b90</color>
+    <color name="setting_title">#ff333333</color>
+    <color name="share_menu_bg">#ededed</color>
+    <color name="sky_blue">#399dff</color>
+    <color name="sky_blue_text">#427bb7</color>
+    <color name="tb_munion_item_force">#e3e3e3</color>
+    <color name="text_color_hint">#e0e0e0</color>
+    <color name="text_selected_color">#93aec3</color>
+    <color name="time_color">#999999</color>
+    <color name="time_created">#ffa1a1a1</color>
+    <color name="title">#ff333333</color>
+    <color name="title_text_color">#333333</color>
+    <color name="top_line_blue_color">#01acef</color>
+    <color name="top_line_gray_color">#bfbfbf</color>
+    <color name="topic_bg">#ff009fd3</color>
+    <color name="translucent">#e0000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="umeng_fb_color_btn_normal">#ff333333</color>
+    <color name="umeng_fb_color_btn_pressed">#ff1495f7</color>
+    <color name="umeng_socialize_color_group">#2c3035</color>
+    <color name="umeng_socialize_comments_bg">#F4F4F4</color>
+    <color name="umeng_socialize_divider">#E6E6E6</color>
+    <color name="umeng_socialize_edit_bg">#C4C4C4</color>
+    <color name="umeng_socialize_grid_divider_line">#F8F8F8</color>
+    <color name="umeng_socialize_list_item_bgcolor">#FFFFFF</color>
+    <color name="umeng_socialize_list_item_textcolor">#333333</color>
+    <color name="umeng_socialize_text_friends_list">#959696</color>
+    <color name="umeng_socialize_text_share_content">#666666</color>
+    <color name="umeng_socialize_text_time">#999999</color>
+    <color name="umeng_socialize_text_title">#464f61</color>
+    <color name="umeng_socialize_text_ucenter">#595959</color>
+    <color name="umeng_socialize_ucenter_bg">#EEEEEE</color>
+    <color name="unable_color">#EDEDF3</color>
+    <color name="up_times_bg_gray">#ffc3cdce</color>
+    <color name="up_times_bg_red">#ffef805d</color>
+    <color name="verified_text_color">#ffc936</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_60_alpha">#99ffffff</color>
+    <color name="white_80_alpha">#bbffffff</color>
+    <color name="white_smoke_color">#F5F5F5</color>
+    <color name="yellow_color">#ffd339</color>
+    <declare-styleable name="FlowLayout"><attr format="dimension" name="horizontalSpacing"/><attr format="dimension" name="verticalSpacing"/><attr format="enum" name="orientation"><enum name="horizontal" value="0"/><enum name="vertical" value="1"/></attr><attr format="boolean" name="debugDraw"/></declare-styleable>
+    <declare-styleable name="FlowLayout_LayoutParams"><attr format="boolean" name="layout_newLine"/><attr format="dimension" name="layout_horizontalSpacing"/><attr format="dimension" name="layout_verticalSpacing"/></declare-styleable>
+    <declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable>
+    <declare-styleable name="RoundAngleImageView"><attr format="dimension" name="roundWidth"/><attr format="dimension" name="roundHeight"/></declare-styleable>
+    <declare-styleable name="RoundProgressBar"><attr format="color" name="roundColor"/><attr format="color" name="roundProgressColor"/><attr format="dimension" name="roundWidthProgressBar"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="integer" name="max"/><attr format="boolean" name="textIsDisplayable"/><attr name="style"><enum name="STROKE" value="0"/><enum name="FILL" value="1"/></attr></declare-styleable>
+    <declare-styleable name="WaterRippleView"><attr format="dimension" name="wrv_radius"/><attr format="dimension" name="wrv_strokewidth"/><attr format="color" name="wrv_strokecolor"/><attr format="color" name="wrv_backgroundcolor"/><attr format="integer" name="wrv_alpha"/><attr name="wrv_circle_style"><enum name="FILL" value="0"/><enum name="STROKE" value="1"/><enum name="FILL_AND_STROKE" value="2"/></attr></declare-styleable>
+    <declare-styleable name="com_facebook_like_view"><attr format="color" name="com_facebook_foreground_color"/><attr format="string" name="com_facebook_object_id"/><attr name="com_facebook_object_type"><enum name="unknown" value="0"/><enum name="open_graph" value="1"/><enum name="page" value="2"/></attr><attr name="com_facebook_style"><enum name="standard" value="0"/><enum name="button" value="1"/><enum name="box_count" value="2"/></attr><attr name="com_facebook_auxiliary_view_position"><enum name="bottom" value="0"/><enum name="inline" value="1"/><enum name="top" value="2"/></attr><attr name="com_facebook_horizontal_alignment"><enum name="center" value="0"/><enum name="left" value="1"/><enum name="right" value="2"/></attr></declare-styleable>
+    <declare-styleable name="com_facebook_login_view"><attr format="boolean" name="com_facebook_confirm_logout"/><attr format="string" name="com_facebook_login_text"/><attr format="string" name="com_facebook_logout_text"/><attr name="com_facebook_tooltip_mode"><enum name="automatic" value="0"/><enum name="display_always" value="1"/><enum name="never_display" value="2"/></attr></declare-styleable>
+    <declare-styleable name="com_facebook_profile_picture_view"><attr name="com_facebook_preset_size"><enum name="small" value="-2"/><enum name="normal" value="-3"/><enum name="large" value="-4"/></attr><attr format="boolean" name="com_facebook_is_cropped"/></declare-styleable>
+    <declare-styleable name="roundedimageview"><attr format="dimension" name="border_thickness"/><attr format="color" name="border_inside_color"/><attr format="color" name="border_outside_color"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="aliwx_account_arrow_size">25dip</dimen>
+    <dimen name="aliwx_account_edittext_bottom_height">44.6dip</dimen>
+    <dimen name="aliwx_account_edittext_top_height">44.6dip</dimen>
+    <dimen name="aliwx_activity_horizontal_margin">16dp</dimen>
+    <dimen name="aliwx_activity_vertical_margin">16dp</dimen>
+    <dimen name="aliwx_asr_recording_inner_size">86dip</dimen>
+    <dimen name="aliwx_asr_recording_max_size">153dip</dimen>
+    <dimen name="aliwx_asr_recording_min_size">98dip</dimen>
+    <dimen name="aliwx_asr_recording_stroken_width">2dip</dimen>
+    <dimen name="aliwx_audio_height">30dip</dimen>
+    <dimen name="aliwx_audio_minwidth">50dip</dimen>
+    <dimen name="aliwx_barscan_preview_decode_size">240dip</dimen>
+    <dimen name="aliwx_base_edit_text_top_margin">30.6dip</dimen>
+    <dimen name="aliwx_basic_btn_width">35dip</dimen>
+    <dimen name="aliwx_bottom_tab_height">52dip</dimen>
+    <dimen name="aliwx_button_parent_right_margin">15dip</dimen>
+    <dimen name="aliwx_chat_head_choice_padding_bottom">11dip</dimen>
+    <dimen name="aliwx_chat_head_choice_padding_margin">4.2dip</dimen>
+    <dimen name="aliwx_chat_head_padding_bottom">8dip</dimen>
+    <dimen name="aliwx_chat_head_padding_margin">2.2dip</dimen>
+    <dimen name="aliwx_chatting_detail_bubble_width">200dip</dimen>
+    <dimen name="aliwx_clothing_size_edit_font">13sp</dimen>
+    <dimen name="aliwx_clothing_size_edit_height">21dip</dimen>
+    <dimen name="aliwx_clothing_size_edit_shoe_width">87dip</dimen>
+    <dimen name="aliwx_clothing_size_edit_width">45dip</dimen>
+    <dimen name="aliwx_clothing_size_padding_left">13dip</dimen>
+    <dimen name="aliwx_clothing_size_padding_right">15dip</dimen>
+    <dimen name="aliwx_clothing_size_unit_width">32dip</dimen>
+    <dimen name="aliwx_column_height">47dip</dimen>
+    <dimen name="aliwx_column_top_margin">14dip</dimen>
+    <dimen name="aliwx_column_up_unit_margin">15dip</dimen>
+    <dimen name="aliwx_common_android_safe_margin">9.3dip</dimen>
+    <dimen name="aliwx_common_big_head_size">55dip</dimen>
+    <dimen name="aliwx_common_big_margin">20dip</dimen>
+    <dimen name="aliwx_common_btn_height">35dip</dimen>
+    <dimen name="aliwx_common_btn_width">50dip</dimen>
+    <dimen name="aliwx_common_checkbox_size">25dip</dimen>
+    <dimen name="aliwx_common_grey_btn_width">75dip</dimen>
+    <dimen name="aliwx_common_half_safe_margin">6dip</dimen>
+    <dimen name="aliwx_common_head_size">35dip</dimen>
+    <dimen name="aliwx_common_multi_padding">25dip</dimen>
+    <dimen name="aliwx_common_quart_safe_margin">3dip</dimen>
+    <dimen name="aliwx_common_safe_margin">12dip</dimen>
+    <dimen name="aliwx_common_small_margin">2dip</dimen>
+    <dimen name="aliwx_common_text_size">15sp</dimen>
+    <dimen name="aliwx_common_title_right_btn_width">58dip</dimen>
+    <dimen name="aliwx_common_two_safe_margin">24dip</dimen>
+    <dimen name="aliwx_common_two_unit_margin">16dip</dimen>
+    <dimen name="aliwx_common_unit_margin">8dip</dimen>
+    <dimen name="aliwx_delete_icon_size">64dip</dimen>
+    <dimen name="aliwx_detail_profile_padding_bottom">14dip</dimen>
+    <dimen name="aliwx_detail_profile_padding_top">12dip</dimen>
+    <dimen name="aliwx_editview_h">28dip</dimen>
+    <dimen name="aliwx_enlarge_text_size">21sp</dimen>
+    <dimen name="aliwx_enlarged_text_smily_column_width">30dip</dimen>
+    <dimen name="aliwx_enlarged_text_view_padding">25dip</dimen>
+    <dimen name="aliwx_enlarged_text_view_padding_right">15dip</dimen>
+    <dimen name="aliwx_expand_button_size">28dip</dimen>
+    <dimen name="aliwx_font_first_grade">16sp</dimen>
+    <dimen name="aliwx_font_fourth_grade">11sp</dimen>
+    <dimen name="aliwx_font_second_grade">14sp</dimen>
+    <dimen name="aliwx_font_third_grade">12sp</dimen>
+    <dimen name="aliwx_font_top_grade">20sp</dimen>
+    <dimen name="aliwx_friend_X">10dip</dimen>
+    <dimen name="aliwx_friend_Y">12dip</dimen>
+    <dimen name="aliwx_friend_alpha_height">25dp</dimen>
+    <dimen name="aliwx_friend_find_icon_size">26.6dip</dimen>
+    <dimen name="aliwx_friend_find_view_height">43dip</dimen>
+    <dimen name="aliwx_friend_info_btn_width">148dip</dimen>
+    <dimen name="aliwx_friend_item_height">60dip</dimen>
+    <dimen name="aliwx_friend_letter_size">12dip</dimen>
+    <dimen name="aliwx_friend_recommond_margin_top">9dip</dimen>
+    <dimen name="aliwx_friend_select_btn_width">100dip</dimen>
+    <dimen name="aliwx_friends_title_padding">6.3dip</dimen>
+    <dimen name="aliwx_geo_width">140dip</dimen>
+    <dimen name="aliwx_gif_item_size">60dip</dimen>
+    <dimen name="aliwx_guide_margin_left">21dip</dimen>
+    <dimen name="aliwx_guide_margin_top">30dip</dimen>
+    <dimen name="aliwx_head_block_height">240dip</dimen>
+    <dimen name="aliwx_hint_text_view_height">40dip</dimen>
+    <dimen name="aliwx_imageview_button_height">32dip</dimen>
+    <dimen name="aliwx_item_size">165dip</dimen>
+    <dimen name="aliwx_large_padding">12dip</dimen>
+    <dimen name="aliwx_line_seperator">2dip</dimen>
+    <dimen name="aliwx_login_detect_progress_width">24dip</dimen>
+    <dimen name="aliwx_long_title_right_btn_width">80dip</dimen>
+    <dimen name="aliwx_ls_BANNER_HEIGHT_IN_DP">150dp</dimen>
+    <dimen name="aliwx_ls_act_detail_net_null_height">190dp</dimen>
+    <dimen name="aliwx_ls_act_detail_pop_up_height">100dip</dimen>
+    <dimen name="aliwx_ls_act_edit_pop_up_height">245dp</dimen>
+    <dimen name="aliwx_ls_act_edit_pop_up_height_approve">220dp</dimen>
+    <dimen name="aliwx_ls_act_edit_pop_up_height_location">245dp</dimen>
+    <dimen name="aliwx_ls_act_margin_left">18dip</dimen>
+    <dimen name="aliwx_ls_chat_group_width_minus">85dp</dimen>
+    <dimen name="aliwx_ls_common_title_height">50dp</dimen>
+    <dimen name="aliwx_ls_detail_feedback_empty_height">500dp</dimen>
+    <dimen name="aliwx_ls_detail_qa_popup_height">300dp</dimen>
+    <dimen name="aliwx_ls_detail_tag_image_margin">8dp</dimen>
+    <dimen name="aliwx_ls_detail_tag_margin">3dp</dimen>
+    <dimen name="aliwx_ls_detail_tag_size">12dp</dimen>
+    <dimen name="aliwx_ls_detail_tag_text_margin">5dp</dimen>
+    <dimen name="aliwx_ls_detail_title_height">40dp</dimen>
+    <dimen name="aliwx_ls_fifth_grade_text_size">10dp</dimen>
+    <dimen name="aliwx_ls_filter_city_item_height">50dp</dimen>
+    <dimen name="aliwx_ls_first_grade_text_size">16sp</dimen>
+    <dimen name="aliwx_ls_fourth_grade_text_size">12sp</dimen>
+    <dimen name="aliwx_ls_listview_head_height">35dip</dimen>
+    <dimen name="aliwx_ls_main_act_subitem_height">90dp</dimen>
+    <dimen name="aliwx_ls_main_act_subitem_height_new">77dp</dimen>
+    <dimen name="aliwx_ls_main_act_subitem_height_without_recommend">1dp</dimen>
+    <dimen name="aliwx_ls_main_margrin">16dp</dimen>
+    <dimen name="aliwx_ls_pic_width">45dip</dimen>
+    <dimen name="aliwx_ls_second_grade_text_size">15sp</dimen>
+    <dimen name="aliwx_ls_self_info_pop_up_height_profession_choice">270dp</dimen>
+    <dimen name="aliwx_ls_self_info_pop_up_height_three_choice">270dp</dimen>
+    <dimen name="aliwx_ls_sixth_grade_text_size">11sp</dimen>
+    <dimen name="aliwx_ls_sliding_width">250dp</dimen>
+    <dimen name="aliwx_ls_super_text_size">18sp</dimen>
+    <dimen name="aliwx_ls_thrid_grade_text_size">14sp</dimen>
+    <dimen name="aliwx_ls_title_bar_height">40dip</dimen>
+    <dimen name="aliwx_ls_title_text_size">17sp</dimen>
+    <dimen name="aliwx_max_sharetext_width">194.6dip</dimen>
+    <dimen name="aliwx_max_sharetext_width_new">310dip</dimen>
+    <dimen name="aliwx_max_text_width">204dip</dimen>
+    <dimen name="aliwx_message_content_margin_right">65dip</dimen>
+    <dimen name="aliwx_message_item_height">55dip</dimen>
+    <dimen name="aliwx_more_item_height">44dip</dimen>
+    <dimen name="aliwx_name_set_padding">13.3dip</dimen>
+    <dimen name="aliwx_name_set_text_height">44dip</dimen>
+    <dimen name="aliwx_net_alert_height">56dip</dimen>
+    <dimen name="aliwx_net_alert_icon_size">20dip</dimen>
+    <dimen name="aliwx_normal_head_size">50.6dip</dimen>
+    <dimen name="aliwx_one_dp">1dp</dimen>
+    <dimen name="aliwx_one_primary_text_size">16sp</dimen>
+    <dimen name="aliwx_order_detail_pic_width">73dip</dimen>
+    <dimen name="aliwx_order_pic_width">64dip</dimen>
+    <dimen name="aliwx_plugin_icon_size">29.3dip</dimen>
+    <dimen name="aliwx_plugin_text_padding">5dip</dimen>
+    <dimen name="aliwx_pop_up_win_width">183dip</dimen>
+    <dimen name="aliwx_pop_up_win_width_ls">117dip</dimen>
+    <dimen name="aliwx_popup_height">300dip</dimen>
+    <dimen name="aliwx_popup_photo_size">60dip</dimen>
+    <dimen name="aliwx_popwindow_tips_height">45dip</dimen>
+    <dimen name="aliwx_popwindow_tips_xoff">30dip</dimen>
+    <dimen name="aliwx_public_platform_layout_width">296dip</dimen>
+    <dimen name="aliwx_pull_down_toast_size">113dip</dimen>
+    <dimen name="aliwx_reply_bar_bottom_height">244dip</dimen>
+    <dimen name="aliwx_right_sliding_left_padding">25dip</dimen>
+    <dimen name="aliwx_right_sliding_right_padding">24dip</dimen>
+    <dimen name="aliwx_right_sliding_text_padding">8dip</dimen>
+    <dimen name="aliwx_search_btn_height">35.3dip</dimen>
+    <dimen name="aliwx_search_btn_width">48dip</dimen>
+    <dimen name="aliwx_search_button_w">84dip</dimen>
+    <dimen name="aliwx_search_icon_size">18.6dip</dimen>
+    <dimen name="aliwx_search_text_bg_height">36dip</dimen>
+    <dimen name="aliwx_search_text_view_height">30dip</dimen>
+    <dimen name="aliwx_search_view_height">49.3dip</dimen>
+    <dimen name="aliwx_second_text_size">12sp</dimen>
+    <dimen name="aliwx_send_button_w">50dip</dimen>
+    <dimen name="aliwx_send_original_check_left_margin">15dip</dimen>
+    <dimen name="aliwx_send_original_check_right_margin">6dip</dimen>
+    <dimen name="aliwx_setting_item_height">44dip</dimen>
+    <dimen name="aliwx_setting_item_margin_top">10.6dip</dimen>
+    <dimen name="aliwx_setting_layout_padding">15dip</dimen>
+    <dimen name="aliwx_setting_margin">13dp</dimen>
+    <dimen name="aliwx_singletp_vertical_img_padding_height">113.3dip</dimen>
+    <dimen name="aliwx_singletp_vertical_img_padding_height_new">184dip</dimen>
+    <dimen name="aliwx_singletp_vertical_padding_bottom">4dip</dimen>
+    <dimen name="aliwx_singletp_vertical_padding_left">4dip</dimen>
+    <dimen name="aliwx_singletp_vertical_padding_right">4dip</dimen>
+    <dimen name="aliwx_singletp_vertical_padding_top">4dip</dimen>
+    <dimen name="aliwx_smily_column_width">20dip</dimen>
+    <dimen name="aliwx_smily_fastreply_width">19dip</dimen>
+    <dimen name="aliwx_smily_item_size">32dip</dimen>
+    <dimen name="aliwx_text_padding">1dip</dimen>
+    <dimen name="aliwx_third_text_size">12sp</dimen>
+    <dimen name="aliwx_title_bar_height">45dip</dimen>
+    <dimen name="aliwx_title_bar_popup_height">46dip</dimen>
+    <dimen name="aliwx_title_btn_fifth_width">92dip</dimen>
+    <dimen name="aliwx_title_head_width">34.6dip</dimen>
+    <dimen name="aliwx_title_height">48dip</dimen>
+    <dimen name="aliwx_title_middle_margin">60dip</dimen>
+    <dimen name="aliwx_title_shadow_height">1px</dimen>
+    <dimen name="aliwx_title_state_width">24dip</dimen>
+    <dimen name="aliwx_tribe_bulletin_default_height">44dip</dimen>
+    <dimen name="aliwx_tribe_bulletin_default_width">72dip</dimen>
+    <dimen name="aliwx_tribe_chatting_menu_bulletin_height">225dip</dimen>
+    <dimen name="aliwx_unread_text_size">10sp</dimen>
+    <dimen name="aliwx_voip_hangup_padding">30dip</dimen>
+    <dimen name="aliwx_weitao_msg_padding">10dip</dimen>
+    <dimen name="aliwx_wq_big_text_size">16sp</dimen>
+    <dimen name="aliwx_wq_middle_text_size">15sp</dimen>
+    <dimen name="aliwx_wq_small_text_size">14sp</dimen>
+    <dimen name="aliwx_ww_grou_indicator_size">12dip</dimen>
+    <dimen name="aliwx_ww_group_bg_height">44dip</dimen>
+    <dimen name="alphabet_size">12dip</dimen>
+    <dimen name="apply_loan_form_left_width">130dp</dimen>
+    <dimen name="big_corner">30dp</dimen>
+    <dimen name="big_title_size">18sp</dimen>
+    <dimen name="bottom_margin">11dp</dimen>
+    <dimen name="bottom_padding">10dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_border_radius">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_border_width">1dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_height">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_width">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_padding">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_likeview_edge_padding">2dp</dimen>
+    <dimen name="com_facebook_likeview_internal_padding">6dp</dimen>
+    <dimen name="com_facebook_likeview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_large">180dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_normal">100dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_small">50dp</dimen>
+    <dimen name="com_facebook_share_button_compound_drawable_padding">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_bottom">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_left">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_right">16dp</dimen>
+    <dimen name="com_facebook_share_button_padding_top">12dp</dimen>
+    <dimen name="com_facebook_share_button_text_size">16.0sp</dimen>
+    <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
+    <dimen name="common_margin">12.0dip</dimen>
+    <dimen name="common_margin_10">10.0dip</dimen>
+    <dimen name="common_title_btn_height2">40dip</dimen>
+    <dimen name="desc_size">14sp</dimen>
+    <dimen name="divider_line_height">0.7dp</dimen>
+    <dimen name="edge_distance">10dp</dimen>
+    <dimen name="fangkuai_height">45dp</dimen>
+    <dimen name="head_big_size">70dp</dimen>
+    <dimen name="head_large_big_size">100dp</dimen>
+    <dimen name="head_mid_size">50dp</dimen>
+    <dimen name="head_small_size">25dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="home_anima_height">10dp</dimen>
+    <dimen name="home_anima_width">50dp</dimen>
+    <dimen name="home_score_height">52dp</dimen>
+    <dimen name="home_score_size">28sp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="left_margin">12dp</dimen>
+    <dimen name="left_padding">12dp</dimen>
+    <dimen name="list_dianzan_size">18dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="listview_item_height">70dp</dimen>
+    <dimen name="midle_corner">10dp</dimen>
+    <dimen name="navigate_text_size">12sp</dimen>
+    <dimen name="page_head_height">42dp</dimen>
+    <dimen name="pop_up_win_width_2">220dip</dimen>
+    <dimen name="pop_up_win_width_3">161dip</dimen>
+    <dimen name="right_margin">12dp</dimen>
+    <dimen name="right_padding">12dp</dimen>
+    <dimen name="shadow_width">10dp</dimen>
+    <dimen name="slidingmenu_offset">50dp</dimen>
+    <dimen name="small_corner">5dp</dimen>
+    <dimen name="small_text_size">10sp</dimen>
+    <dimen name="tag_corner_radius">20.0dip</dimen>
+    <dimen name="tag_horizontal_spacing">8.0dip</dimen>
+    <dimen name="tag_vertical_spacing">6.0dip</dimen>
+    <dimen name="text_bg_height">40dp</dimen>
+    <dimen name="title_group_height">43dp</dimen>
+    <dimen name="title_size">16sp</dimen>
+    <dimen name="top_margin">11dp</dimen>
+    <dimen name="top_navi_bg_height">33dp</dimen>
+    <dimen name="top_padding">10dp</dimen>
+    <dimen name="umeng_socialize_pad_window_height">350dip</dimen>
+    <dimen name="umeng_socialize_pad_window_width">580dip</dimen>
+    <dimen name="verify_img_size">180dp</dimen>
+    <item name="PullToRefreshExpandableListViewID" type="id"/>
+    <item name="PullToRefreshListViewID" type="id"/>
+    <item name="chat_with_seller" type="id"/>
+    <item name="goldtree_viewdatakey" type="id"/>
+    <item name="goldtree_viewholderkey" type="id"/>
+    <item name="gridview" type="id"/>
+    <item name="left_content_layout" type="id"/>
+    <item name="pubplat_item_position" type="id"/>
+    <item name="pubplat_list_position" type="id"/>
+    <item name="scrollview" type="id"/>
+    <item name="selected_view" type="id"/>
+    <item name="switcherLayout" type="id"/>
+    <item name="template_item_action" type="id"/>
+    <item name="webview" type="id"/>
+    <item name="aliwx_max_chat_inputtext_lines" type="integer">5</item>
+    <item name="aliwx_max_chatting_word_length" type="integer">1024</item>
+    <item name="aliwx_max_gif_in_wifi_size" type="integer">512000</item>
+    <item name="aliwx_max_gif_not_wifi_size" type="integer">143360</item>
+    <item name="aliwx_once_read_msg_size" type="integer">10</item>
+    <item name="aliwx_visible" type="integer">0</item>
+    <integer name="num_cols">1</integer>
+    <string name="POOR_NETWORK_STATUS">网络不给力噢，稍候再试试吧</string>
+    <string name="UMAppUpdate">App updating</string>
+    <string name="UMBreak_Network">Please make sure you are connected to internet,update failed</string>
+    <string name="UMDialog_InstallAPK">The lastest version has been downloaded, install now ?</string>
+    <string name="UMGprsCondition">(Warning: Not WIFI Condition)</string>
+    <string name="UMIgnore">Ingore this</string>
+    <string name="UMNewVersion">Latest version: </string>
+    <string name="UMNotNow">Not now</string>
+    <string name="UMTargetSize">Target size: </string>
+    <string name="UMToast_IsUpdating">Updating....</string>
+    <string name="UMUpdateCheck">2.6.0.1.20150312</string>
+    <string name="UMUpdateContent">Update Content</string>
+    <string name="UMUpdateNow">Update now</string>
+    <string name="UMUpdateSize">Update size: </string>
+    <string name="UMUpdateTitle">New version found</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_local_notification">新建</string>
+    <string name="address">居住地</string>
+    <string name="alisdk_message_10000_action">请检查对应名称模块的库文件是否包含在当前开发应用的依赖库里面</string>
+    <string name="alisdk_message_10000_message">JS Bridge 载入器未找到名称为 {0} 的模块</string>
+    <string name="alisdk_message_10000_name">JS_BRIDGE_MODULE_NOT_FOUND</string>
+    <string name="alisdk_message_10000_type">E</string>
+    <string name="alisdk_message_10002_action">请使用默认的 androiddebugkey 对当前开发应用签名或在应用初始化之前调用 AlibabaSDK.turnOnDebug(), 运行程序查看 logcat 输出以获取更多错误细节，并采取对应操作</string>
+    <string name="alisdk_message_10002_message">SDK 初始化出错，错误信息为 {0}</string>
+    <string name="alisdk_message_10002_name">INIT_EXCEPTION</string>
+    <string name="alisdk_message_10002_type">E</string>
+    <string name="alisdk_message_10003_action"/>
+    <string name="alisdk_message_10003_message">当前操作已经取消</string>
+    <string name="alisdk_message_10003_name">USER_CANCEL</string>
+    <string name="alisdk_message_10003_type">I</string>
+    <string name="alisdk_message_10004_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
+    <string name="alisdk_message_10004_message">请求 INIT 服务器发生错误，错误消息为 {0}</string>
+    <string name="alisdk_message_10004_name">REQUEST_INIT_SERVER_EXCEPTION</string>
+    <string name="alisdk_message_10004_type">E</string>
+    <string name="alisdk_message_10005_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
+    <string name="alisdk_message_10005_message">消息解密发生错误，错误消息为 {0}</string>
+    <string name="alisdk_message_10005_name">RSA_DECRYPT_EXCEPTION</string>
+    <string name="alisdk_message_10005_type">E</string>
+    <string name="alisdk_message_10010_action">请使用默认的 androiddebugkey 对当前开发应用签名或在应用初始化之前调用 AlibabaSDK.turnOnDebug(), 运行程序查看 logcat 输出以获取更多错误细节，并采取对应操作</string>
+    <string name="alisdk_message_10010_message">发生错误，消息为 {0}, 请使用 LogCat 查看更多细节</string>
+    <string name="alisdk_message_10010_name">GENERIC_SYSTEM_ERROR</string>
+    <string name="alisdk_message_10010_type">E</string>
+    <string name="alisdk_message_10011_action"/>
+    <string name="alisdk_message_10011_message">当前用户未登录</string>
+    <string name="alisdk_message_10011_name">USER_ALREADY_LOGOUT</string>
+    <string name="alisdk_message_10011_type">W</string>
+    <string name="alisdk_message_10012_action">请在使用 SDK 业务功能之前确保已经调用 AlibabaSDK.asyncInit 方法并接收到初始化成功的回调</string>
+    <string name="alisdk_message_10012_message">SDK 尚未被初始化</string>
+    <string name="alisdk_message_10012_name">SDK_NOT_INIT</string>
+    <string name="alisdk_message_10012_type">E</string>
+    <string name="alisdk_message_10014_action">请检查网络设置后，并重试当前操作</string>
+    <string name="alisdk_message_10014_message">当前网络不可用</string>
+    <string name="alisdk_message_10014_name">NETWORK_NOT_AVAILABLE</string>
+    <string name="alisdk_message_10014_type">E</string>
+    <string name="alisdk_message_10016_action">请在开发环境中运行应用，检查 logcat 输出的异常信息</string>
+    <string name="alisdk_message_10016_message">安全模块初始化失败，错误消息为 {0}</string>
+    <string name="alisdk_message_10016_type">E</string>
+    <string name="alisdk_message_10022_action">请使用默认的 androiddebugkey 对当前开发应用签名或在应用初始化之前调用 AlibabaSDK.turnOnDebug(), 运行程序查看 logcat 输出以获取更多错误细节，并采取对应操作</string>
+    <string name="alisdk_message_10022_message">SDK 组件 {0} 启动出错，错误消息为 {1}</string>
+    <string name="alisdk_message_10022_name">PLUGIN_INIT_FAILED</string>
+    <string name="alisdk_message_10022_type">E</string>
+    <string name="alisdk_message_100_action"/>
+    <string name="alisdk_message_100_message">操作成功</string>
+    <string name="alisdk_message_100_name">ACTION_SUCCESS</string>
+    <string name="alisdk_message_100_type">I</string>
+    <string name="alisdk_message_101_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
+    <string name="alisdk_message_101_message">会话刷新出错，错误消息为 {0}</string>
+    <string name="alisdk_message_101_name">REFRESH_SID_EXCEPTION</string>
+    <string name="alisdk_message_101_type">W</string>
+    <string name="alisdk_message_12_action">请检查所依赖的 SDK 项目，或若是手动拷贝 SDK 至当前开发应用所在项目，请检查是否漏拷文件</string>
+    <string name="alisdk_message_12_message">在目录 {0} 未找到文件 {1}</string>
+    <string name="alisdk_message_12_name">RESOURCE_NOT_FOUND</string>
+    <string name="alisdk_message_12_type">E</string>
+    <string name="alisdk_message_13_action">请检查所依赖的 SDK 项目，或若是手动拷贝 SDK 至当前开发应用所在项目，请检查是否漏拷文件，或重新至官方网站下载 SDK</string>
+    <string name="alisdk_message_13_message">未能在下载 SDK 中找到指定插件 {0}</string>
+    <string name="alisdk_message_13_name">PLUGIN_NOT_FOUND</string>
+    <string name="alisdk_message_13_type">E</string>
+    <string name="alisdk_message_14_action">当前输入参数不应为 null 或者空，请调整输入参数</string>
+    <string name="alisdk_message_14_message">输入参数 {0} 为 null 或者为空</string>
+    <string name="alisdk_message_14_name">NULL_OR_EMPTY_PARAMETER</string>
+    <string name="alisdk_message_14_type">E</string>
+    <string name="alisdk_message_15_action"/>
+    <string name="alisdk_message_15_message">{0} 模块 请求服务端出错，错误消息为 {1}</string>
+    <string name="alisdk_message_15_name">SERVER_REQUEST_FAILED</string>
+    <string name="alisdk_message_15_type">E</string>
+    <string name="alisdk_message_16_action">请在 IDE 中检查类是否存在，或者是否因为代码混淆没有配置 SDK 对应的 -keep 选项，具体配置请参照在线网站</string>
+    <string name="alisdk_message_16_message">运行时不能载入类 {0}</string>
+    <string name="alisdk_message_16_name">CLASS_NOT_FOUND_ERROR</string>
+    <string name="alisdk_message_16_type">E</string>
+    <string name="alisdk_message_17_action">请检查 SDK 是否初始化成功，或者如果 APK 采取特定的打包方式 (e.g. multi-dex), 确保百川 SDK 的包含的 jar 文件中的 assets/ 文件包含在最终的 APK 中</string>
+    <string name="alisdk_message_17_message">不能获取类名为 {0}，过滤条件为 {1} 的服务</string>
+    <string name="alisdk_message_17_name">SERVICE_NOT_AVAILABLE_ERROR</string>
+    <string name="alisdk_message_17_type">E</string>
+    <string name="alisdk_message_1_action">请检查所依赖的 SDK 项目，或若是手动拷贝 SDK 至当前开发应用所在项目，请检查是否漏拷文件 res/values 下文件</string>
+    <string name="alisdk_message_1_message">未在消息文件中找到 id 为 {0} 的消息</string>
+    <string name="alisdk_message_1_name">MESSAGE_NOT_FOUND_ERROR</string>
+    <string name="alisdk_message_1_type">E</string>
+    <string name="alisdk_message_2_action">请检查所依赖的 SDK 项目，或若是手动拷贝 SDK 至当前开发应用所在项目，请检查是否漏拷文件 res/values 下文件</string>
+    <string name="alisdk_message_2_message">检索消息时发生如下错误 {0}</string>
+    <string name="alisdk_message_2_name">MESSAGE_UNKNOWN_ERROR</string>
+    <string name="alisdk_message_2_type">E</string>
+    <string name="alisdk_message_651_action">请使用相关工具 (e.g.taobao.openiid.get API) 对原始参数进行加密</string>
+    <string name="alisdk_message_651_message">未能使用当前应用的信息对参数进行解密</string>
+    <string name="alisdk_message_651_name">INVALID_OPEN_ITEM_ID</string>
+    <string name="alisdk_message_651_type">E</string>
+    <string name="alisdk_message_701_action">1. 使用同一个 Keystore 签名的 Apk 在 SDK 下载页面重新下载 SDK \n
+        2. 调用 AlibabaSDK.setEnvirnoment 指定当前运行环境会导致 SDK 检索特定的图片，例如设置了 AlibabaSDK.setEnvirnoment(Environment.TEST), SDK 会检索 yw_1222_test.jpg，若您是应用开发方，请去除相关代码，此环境设置主要是针对 SDK 组件提供方开发调试使用。\n
+        3. 调用 AlibabaSDK.setSecGuardImagePostfix 会导致 SDK 检索指定后缀的图片，例如设置了 AlibabaSDK.setSecGuardImagePostfix("abc"), SDK 会检索 yw_1222_abc.jpg, 请检查代码中是否有相关调用，若有请做调整，确保当前使用图片与 APK 签名一致。</string>
+    <string name="alisdk_message_701_message">当前使用的图片文件 res\\drawable\\yw_1222{0}.jpg 和当前程序的 APK 签名不一致</string>
+    <string name="alisdk_message_701_type">E</string>
+    <string name="alisdk_message_702_action">1. 如果使用项目依赖方式使用 SDK，请检查所依赖的 SDK 项目中 res\\drawable 是否存在图片文件，如果是将 SDK 拷贝至当前开发应用中，请检查是否漏拷贝。\n 
+        2. 调用 AlibabaSDK.setEnvirnoment 指定当前运行环境会导致 SDK 检索特定的图片，例如设置了 AlibabaSDK.setEnvirnoment(Environment.TEST), SDK 会检索 yw_1222_test.jpg，若您是应用开发方，请去除相关代码，此环境设置主要是针对 SDK 组件提供方开发调试使用。\n
+        3. 调用 AlibabaSDK.setSecGuardImagePostfix 会导致 SDK 检索指定后缀的图片，例如设置了 AlibabaSDK.setSecGuardImagePostfix("abc"), SDK 会检索 yw_1222_abc.jpg, 请检查代码中是否有相关调用，若有请做调整，确保与实际存在的图片保持一致。 </string>
+    <string name="alisdk_message_702_message">没有找到图片文件，请确保图片文件 yw_1222{0}.jpg 在 res\\drawable 目录下</string>
+    <string name="alisdk_message_702_type">E</string>
+    <string name="alisdk_message_703_action">使用同一 Keystore 签名的 Apk 在 SDK 下载页面重新下载 SDK</string>
+    <string name="alisdk_message_703_message">SDK 中图片文件 (res\\drawable\\yw_1222.jpg) 的内容不正确</string>
+    <string name="alisdk_message_703_type">E</string>
+    <string name="alisdk_message_704_action">1. 如果使用项目依赖方式使用 SDK，请检查所依赖的 SDK 项目中 libs 目录下 securityguard***.jar 和 armeabi/armeabi-v7a/x86 下 securityguard***.so 是否存在，大小正常并版本是否一致，如果是将 SDK 拷贝至当前开发应用中，请在当前应用中检查。如文件存在而生成的 apk 中不存在，请检查 IDE 设置，例如 Android Studio 项目的 build.gradle 中 jniLibs.srcDirs。\n
+        2. 因为 Android 部分版本系统中载入不同架构原生库 (so 文件) 的限制，请确保项目运行所需的原生库文件在当前手机 CPU 对应架构目录下都存在。例如，安全模块暂时未提供 arm64 架构的原生库，若当前 apk 依赖的其他组件包含 arm64 原生库，会导致载入错误，解决方法是移除依赖组件中相关原生库，确保最终 apk 中不存在 arm64-v8a。</string>
+    <string name="alisdk_message_704_message">在 APK 中找不到对应的 securityguard***.so 文件或者 so 文件载入出错</string>
+    <string name="alisdk_message_704_type">E</string>
+    <string name="alisdk_message_705_action">请到百川官方网站重新下载 SDK 并使用其包含最新的图片文件</string>
+    <string name="alisdk_message_705_message">当前使用的 res\\drawable\\yw_1222{0}.jpg 与 SDK 中 securityguard***.jar 版本不匹配</string>
+    <string name="alisdk_message_705_type">E</string>
+    <string name="alisdk_message_951_action">如当前应用使用 ProGuard 混淆代码，请检查 SDK 中相关类在 -keep 列表中</string>
+    <string name="alisdk_message_951_message">JS Bridge 载入器在类 {0} 未找到方法 {1}</string>
+    <string name="alisdk_message_951_name">JS_BRIDGE_METHOD_NOT_FOUND</string>
+    <string name="alisdk_message_951_type">E</string>
+    <string name="alisdk_message_952_action">如当前应用使用 ProGuard 混淆代码，请检查是否添加 -keepattributes *Annotation* 配置项</string>
+    <string name="alisdk_message_952_message">JS Bridge 载入器在类 {0} 中的方法 {1} 上未找到含有 BridgeMethod 标识</string>
+    <string name="alisdk_message_952_name">JS_BRIDGE_ANNOTATION_NOT_PRESENT</string>
+    <string name="alisdk_message_952_type">E</string>
+    <string name="aliwx_add_friend">加为好友</string>
+    <string name="aliwx_add_friend_processing">正在申请添加好友</string>
+    <string name="aliwx_aliwangwang">（阿里旺旺）</string>
+    <string name="aliwx_app_name">旺信</string>
+    <string name="aliwx_at_message_all_read">[全部已读]</string>
+    <string name="aliwx_at_message_all_unread">[全部未读]</string>
+    <string name="aliwx_at_message_at_again">再次@TA们</string>
+    <string name="aliwx_at_message_detail_title">消息详情</string>
+    <string name="aliwx_at_message_mark_all_read">全部标为已读</string>
+    <string name="aliwx_at_message_read">[已读]</string>
+    <string name="aliwx_at_message_read_time">阅读时间</string>
+    <string name="aliwx_at_message_read_unread">[%1$s人未读 - %2$s人已读]</string>
+    <string name="aliwx_at_message_receive">\@我的</string>
+    <string name="aliwx_at_message_receive_title_read">已读(%1$s):</string>
+    <string name="aliwx_at_message_receive_title_unread">未读(%1$s):</string>
+    <string name="aliwx_at_message_send">我@的</string>
+    <string name="aliwx_at_message_title">全部@消息</string>
+    <string name="aliwx_at_message_unread">[未读]</string>
+    <string name="aliwx_at_msg_notify">[有人@我]</string>
+    <string name="aliwx_at_msg_unread_count">%1$s人未读</string>
+    <string name="aliwx_back">返回</string>
+    <string name="aliwx_blacklist_send_msg_toast">无法向黑名单中的联系人发送消息</string>
+    <string name="aliwx_buy">立即购买</string>
+    <string name="aliwx_cancel">取消</string>
+    <string name="aliwx_cannot_launch_album">启动不了相册程序</string>
+    <string name="aliwx_chatting_msg_cleared">消息已清空</string>
+    <string name="aliwx_check_code_and">与</string>
+    <string name="aliwx_check_code_cancel">取消</string>
+    <string name="aliwx_check_code_change">换一张</string>
+    <string name="aliwx_check_code_click">点击</string>
+    <string name="aliwx_check_code_complete">完成验证吧！</string>
+    <string name="aliwx_check_code_fail">点击错误喽！</string>
+    <string name="aliwx_checkcode_fail">验证码获取失败，请换一张。</string>
+    <string name="aliwx_checkcode_success">验证成功。</string>
+    <string name="aliwx_clear_chatting_msg">清空聊天消息</string>
+    <string name="aliwx_cloud_chat_pwd_hint">请输入消息记录漫游密码，自动漫游聊天记录</string>
+    <string name="aliwx_cloud_msg_mention">您可以进入设置 - 隐私设置，开启自动漫游消息记录</string>
+    <string name="aliwx_cloud_password_hint">如果您忘记了消息记录漫游密码，请登录电脑旺旺，进入系统设置 - 安全设置 - 密码设置中修改。</string>
+    <string name="aliwx_confirm">确定</string>
+    <string name="aliwx_conversation_cancel_top">取消置顶</string>
+    <string name="aliwx_conversation_del">删除会话</string>
+    <string name="aliwx_conversation_list_empty">暂时没有消息</string>
+    <string name="aliwx_conversation_title">最近联系人</string>
+    <string name="aliwx_conversation_top">置顶会话</string>
+    <string name="aliwx_conversation_top_fail_tip">有消息的会话才能置顶</string>
+    <string name="aliwx_copy">复制</string>
+    <string name="aliwx_default_time">0\"</string>
+    <string name="aliwx_del_message">删除消息</string>
+    <string name="aliwx_do_not_prompt_any_more">不再提示</string>
+    <string name="aliwx_download_image_failed">下载图片失败</string>
+    <string name="aliwx_download_original">下载原图</string>
+    <string name="aliwx_download_original_fail">下载失败</string>
+    <string name="aliwx_download_original_success">下载完成</string>
+    <string name="aliwx_download_original_with_size">下载原图(%1$s)</string>
+    <string name="aliwx_file_read_err">文件读取失败</string>
+    <string name="aliwx_finish">完成</string>
+    <string name="aliwx_first_new_msg_notify">以下是新消息</string>
+    <string name="aliwx_forget_cloud_password">忘记密码</string>
+    <string name="aliwx_forward">转发</string>
+    <string name="aliwx_freight">运费：</string>
+    <string name="aliwx_friend_search">搜</string>
+    <string name="aliwx_goods_offline">该商品已下架</string>
+    <string name="aliwx_goto_chat_list_bottom">回到底部</string>
+    <string name="aliwx_goto_chat_list_bottom_with_unread_msg">%1$s条新消息</string>
+    <string name="aliwx_goto_chat_list_bottom_with_unread_msg_m">99+条新消息</string>
+    <string name="aliwx_image_ls_indicator">%1$d/%2$d</string>
+    <string name="aliwx_image_save_fail">图片保存失败</string>
+    <string name="aliwx_image_saved">图片已经保存</string>
+    <string name="aliwx_insert_sdcard">请插入sd卡</string>
+    <string name="aliwx_last_update_time">上次刷新时间</string>
+    <string name="aliwx_loading">加载中</string>
+    <string name="aliwx_mark_all_at_msg_read_failed">标记失败</string>
+    <string name="aliwx_mark_all_at_msg_read_success">标记成功</string>
+    <string name="aliwx_more">更多</string>
+    <string name="aliwx_more_function">更多功能</string>
+    <string name="aliwx_move_cancel_toast">滑到这里取消</string>
+    <string name="aliwx_msg_empty">矮油~发送内容不能为空呢！</string>
+    <string name="aliwx_msg_not_support">您的软件版本较老，不支持对方发送的消息，请升级后查看该消息。</string>
+    <string name="aliwx_multi_delete_image_title">图片%1$d/%2$d</string>
+    <string name="aliwx_multi_image_brower">%1$d/%2$d</string>
+    <string name="aliwx_net_null">哎呀，怎么没网络了，请联网后试试！</string>
+    <string name="aliwx_net_null_setting">无网络连接，请点击设置</string>
+    <string name="aliwx_no_enough_sdcard_size">手机存储空间不足，请清理后再使用此功能。</string>
+    <string name="aliwx_no_microphone_permission_alert_message">您好，应用的[录音权限]可能被禁止，请重新开启本应用的[录音权限]以发送[语音消息]~</string>
+    <string name="aliwx_no_microphone_permission_alert_title">[录音权限]可能被禁止</string>
+    <string name="aliwx_no_more_at_msg_context">已经没有新消息了</string>
+    <string name="aliwx_no_support_photo">Sorry，不支持发送该张图片哦！</string>
+    <string name="aliwx_no_ww_friend">没有阿里旺旺好友</string>
+    <string name="aliwx_now_price">现价：</string>
+    <string name="aliwx_null_image">没有获取到图片</string>
+    <string name="aliwx_origin_price">原价：</string>
+    <string name="aliwx_packageTime">20131008.192307</string>
+    <string name="aliwx_password_invalid">密码错误，请重新填写</string>
+    <string name="aliwx_picture_mark">[图片]</string>
+    <string name="aliwx_preview">预览</string>
+    <string name="aliwx_profile_account">账 号 </string>
+    <string name="aliwx_public_account_update_tip">该信息是新版本功能，建议您升级至最新版本。</string>
+    <string name="aliwx_pull_to_refresh_contact_pull_label">同步最近联系人…</string>
+    <string name="aliwx_pull_to_refresh_contact_release_label">松开同步最近联系人…</string>
+    <string name="aliwx_pull_to_refresh_friend_pull_label">向下滑动刷新…</string>
+    <string name="aliwx_pull_to_refresh_from_bottom_pull_label">向上滑动加载更多…</string>
+    <string name="aliwx_pull_to_refresh_from_bottom_refreshing_label">@string/aliwx_pull_to_refresh_refreshing_label</string>
+    <string name="aliwx_pull_to_refresh_from_bottom_release_label">@string/aliwx_pull_to_refresh_release_label</string>
+    <string name="aliwx_pull_to_refresh_pull_label">下拉刷新…</string>
+    <string name="aliwx_pull_to_refresh_refreshing_label">正在加载…</string>
+    <string name="aliwx_pull_to_refresh_release_label">松开加载…</string>
+    <string name="aliwx_pull_to_refresh_tribe_members_pull_label">同步群成员</string>
+    <string name="aliwx_pull_to_refresh_tribe_members_refreshing_label">正在加载…</string>
+    <string name="aliwx_pull_to_refresh_tribe_members_release_label">松开同步群成员</string>
+    <string name="aliwx_pull_up_to_load_more_at_msg_loading">正在加载…</string>
+    <string name="aliwx_pull_up_to_load_more_at_msg_pull">上拉加载更多@消息</string>
+    <string name="aliwx_pull_up_to_load_more_at_msg_release">松开开始加载</string>
+    <string name="aliwx_re_send">重新发送</string>
+    <string name="aliwx_re_send_msg">重新发送消息</string>
+    <string name="aliwx_re_sync_msg">重新同步这条消息</string>
+    <string name="aliwx_receiver_again">重新接收消息</string>
+    <string name="aliwx_record_time">%d\"</string>
+    <string name="aliwx_record_too_short">时间太短</string>
+    <string name="aliwx_refresh_fail">刷新失败</string>
+    <string name="aliwx_refresh_success">刷新成功</string>
+    <string name="aliwx_release_stop_record">松开取消发送</string>
+    <string name="aliwx_releast_send">松开发送</string>
+    <string name="aliwx_reload_again">重新加载</string>
+    <string name="aliwx_remark_name">昵 称</string>
+    <string name="aliwx_reply_bar_album">选择照片</string>
+    <string name="aliwx_reply_bar_camera">拍照</string>
+    <string name="aliwx_res_version">1.9.5</string>
+    <string name="aliwx_rmb_character">¥ %1$s</string>
+    <string name="aliwx_save">保存</string>
+    <string name="aliwx_save_image">保存图片</string>
+    <string name="aliwx_search">搜索</string>
+    <string name="aliwx_search_friend_hint">搜索账号</string>
+    <string name="aliwx_search_friend_not_found">该用户不存在</string>
+    <string name="aliwx_search_friend_not_found_message">无法找到该用户，请检查输入的帐号是否正确</string>
+    <string name="aliwx_search_friend_processing">正在为您查找</string>
+    <string name="aliwx_search_text_hint">搜索我的好友</string>
+    <string name="aliwx_send">发送</string>
+    <string name="aliwx_send_at_all_message_read">全部已读</string>
+    <string name="aliwx_send_at_all_message_unread">全部未读</string>
+    <string name="aliwx_send_at_message_read">已读</string>
+    <string name="aliwx_send_at_message_see_detail">查看详情</string>
+    <string name="aliwx_send_at_message_unread">未读</string>
+    <string name="aliwx_send_at_msg_detail_at_again">重新@TA们</string>
+    <string name="aliwx_send_at_msg_detail_content">消息内容:</string>
+    <string name="aliwx_send_at_msg_detail_read">已读(%1$s):</string>
+    <string name="aliwx_send_at_msg_detail_unread">未读(%1$s):</string>
+    <string name="aliwx_send_msg">发送消息</string>
+    <string name="aliwx_send_original">原图</string>
+    <string name="aliwx_send_url">发送宝贝链接</string>
+    <string name="aliwx_sender_inputing">对方正在输入…</string>
+    <string name="aliwx_sender_selecting_picture">对方正在发图片…</string>
+    <string name="aliwx_sender_speaking">对方正在说话…</string>
+    <string name="aliwx_server_unconnected">未连上服务器，请稍等..</string>
+    <string name="aliwx_setting_hint">提示</string>
+    <string name="aliwx_smily_tao">淘公仔表情</string>
+    <string name="aliwx_smily_ww">阿里旺旺表情</string>
+    <string name="aliwx_speak_toast">请长按讲话</string>
+    <string name="aliwx_start">确定%1$s</string>
+    <string name="aliwx_start_camera_error">相机罢工了，再启动试试吧！</string>
+    <string name="aliwx_sync_failed">同步失败</string>
+    <string name="aliwx_sync_success">同步成功</string>
+    <string name="aliwx_title_back">返回</string>
+    <string name="aliwx_tribe_at_notification_tip">在群聊中@了你</string>
+    <string name="aliwx_tribe_normal_notification_tip">[群消息]</string>
+    <string name="aliwx_ttid">123456</string>
+    <string name="aliwx_ttid_check_url">http://m.taobao.com/syscheck.htm?</string>
+    <string name="aliwx_ungroup">未分组</string>
+    <string name="aliwx_unread_noti">你有%1$d条未读消息。</string>
+    <string name="aliwx_update_client_info_url">api/wxuser/updateClientInfo.json?</string>
+    <string name="aliwx_updating_messsage">收取中…</string>
+    <string name="aliwx_ww_unread_noti2">%1$s发来%2$d条消息。</string>
+    <string name="aliwx_ww_unread_noti3">%1$d个朋友发来%2$d条消息。</string>
+    <string name="app_name">电兔贷款</string>
+    <string name="auto_update_fail">下载更新程序失败..</string>
+    <string name="barcodecard">我的名片</string>
+    <string name="birthday">出生日期</string>
+    <string name="btn_cancel">取   消</string>
+    <string name="btn_complete">完  成</string>
+    <string name="btn_logout">退出登录</string>
+    <string name="btn_ok">确   定</string>
+    <string name="btn_regist">注   册</string>
+    <string name="btn_save">保   存</string>
+    <string name="btn_send">发送</string>
+    <string name="btn_send_feedback">发   送</string>
+    <string name="btn_submit">提   交</string>
+    <string name="btn_talk">按住说话</string>
+    <string name="builderSetting">通知样式设置</string>
+    <string name="clear_local_notification">清除</string>
+    <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
+    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">New! You\'re in control - choose what info you want to share with apps.</string>
+    <string name="com_taobao_tae_sdk_alert_message">您离开太久了，请重新操作</string>
+    <string name="com_taobao_tae_sdk_back_message">返回</string>
+    <string name="com_taobao_tae_sdk_close_message">返回</string>
+    <string name="com_taobao_tae_sdk_loading_progress_message">加载中</string>
+    <string name="com_taobao_tae_sdk_network_not_available_message">网络无法连接</string>
+    <string name="com_taobao_tae_sdk_system_exception">系统异常</string>
+    <string name="connect_time_out">网络信号太弱，连接超时</string>
+    <string name="content">内容</string>
+    <string name="create_local_notification">添加</string>
+    <string name="data_loading_waiting">加载中，请稍候...</string>
+    <string name="day">日</string>
+    <string name="defaults">Defaults</string>
+    <string name="dialog_negative_button">取消</string>
+    <string name="dialog_title">需对方通过您的验证请求方可添加成功。</string>
+    <string name="download_count_title">已下载..</string>
+    <string name="download_fail_message">下载失败,请检查网络。</string>
+    <string name="download_ing_message">正在下载应用程序更新....</string>
+    <string name="download_success_message">下载完成,请点击安装。</string>
+    <string name="download_success_title">更新程序,下载完成。</string>
+    <string name="edit">编辑</string>
+    <string name="fabiao">发表</string>
+    <string name="female">女</string>
+    <string name="finish">完成</string>
+    <string name="flags">Flags</string>
+    <string name="flickr_content">Flickr只支持图片分享</string>
+    <string name="flickr_no_client">未安装Flickr客户端</string>
+    <string name="flickr_no_content">请设置分享内容</string>
+    <string name="flickr_showword">Flickr</string>
+    <string name="forget_about">关于</string>
+    <string name="forget_customer_apply">客服申诉找回密码</string>
+    <string name="forget_label_tel">手机号</string>
+    <string name="forget_label_verify_code">验证码</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="forget_tip">请输入您注册时所用的手机号码</string>
+    <string name="forget_validate_tel">请输入手机号码</string>
+    <string name="forget_validate_tel_invalid">您输入的是一个无效的手机号码</string>
+    <string name="foursquare_content">Foursquare只支持纯图片分享</string>
+    <string name="foursquare_no_client">未安装Foursquare客户端</string>
+    <string name="foursquare_showword">Foursquare</string>
+    <string name="gender">性别</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hour">小时</string>
+    <string name="invite_friends">邀请好友</string>
+    <string name="kakao_content">Kakao Talk只支持图片、文本分享</string>
+    <string name="kakao_no_client">未安装Kakao Talk客户端</string>
+    <string name="kakao_no_content">请设置分享内容</string>
+    <string name="kakao_showword">Kakao Talk</string>
+    <string name="label_nick">昵称:</string>
+    <string name="largeIconDrawable">大图标</string>
+    <string name="layoutContentId">自定义内容</string>
+    <string name="layoutIconDrawableId">自定义大图标</string>
+    <string name="layoutIconId">自定义小图标</string>
+    <string name="layoutId">自定义样式</string>
+    <string name="layoutTitleId">自定义标题</string>
+    <string name="line_content">Line只支持文本，图片</string>
+    <string name="line_no_client">未安装Line客户端</string>
+    <string name="line_no_content">请设置分享内容</string>
+    <string name="line_showword">LINE</string>
+    <string name="linkedin_content">linked只支持纯文本分享</string>
+    <string name="linkedin_no_client">未安装LinkedIn客户端</string>
+    <string name="linkedin_showword">LinkedIn</string>
+    <string name="load_data_fail_try_again_after">数据载入失败，请稍候点击再试试</string>
+    <string name="local_notification">本地通知</string>
+    <string name="local_notification_content">内容</string>
+    <string name="local_notification_datetime">时间</string>
+    <string name="local_notification_repeatinginterval">重复间隔</string>
+    <string name="local_notification_repeatingnum">重复数</string>
+    <string name="local_notification_repeatingunit">重复单位</string>
+    <string name="local_notification_specialday">节日</string>
+    <string name="local_notification_ticker">提示</string>
+    <string name="local_notification_title">标题</string>
+    <string name="login">登录</string>
+    <string name="lunarDay">日(阴历)</string>
+    <string name="lunarMonth">月(阴历)</string>
+    <string name="lunarYear">年(阴历)</string>
+    <string name="male">男</string>
+    <string name="message">消息</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="minute">分钟</string>
+    <string name="modify_local_notification">修改本地通知</string>
+    <string name="month">月</string>
+    <string name="msg_barcode_save">已保存个人二维码到</string>
+    <string name="msg_bottom_menu_all">全部</string>
+    <string name="msg_exit_app">再按一次退出程序</string>
+    <string name="msg_fav_cancel">是否确认取消？</string>
+    <string name="msg_verified_tel">已验证手机 ：</string>
+    <string name="myaccount">我的账户</string>
+    <string name="mypees">我的同行</string>
+    <string name="needed">必填</string>
+    <string name="network_exception">网络不给力噢，稍候再试试吧</string>
+    <string name="new_local_notification">新建本地通知</string>
+    <string name="notificationSetting">通知设置</string>
+    <string name="on_load">正在加载，请稍候...</string>
+    <string name="one_again_exit">再按一次退出应用</string>
+    <string name="order">预约</string>
+    <string name="playLights">闪光</string>
+    <string name="playSound">声响</string>
+    <string name="playVibrate">振动</string>
+    <string name="pocket_content">pocket只支持网页链接分享</string>
+    <string name="pocket_no_client">未安装pocket客户端</string>
+    <string name="pocket_showword">Pocket</string>
+    <string name="previewimage">确认头像</string>
+    <string name="privateinfo">个人信息</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <string name="pull_to_refresh_tap_label" translatable="false">点击刷新</string>
+    <string name="qq_friends">QQ好友</string>
+    <string name="qq_space">QQ空间</string>
+    <string name="regist">注册</string>
+    <string name="regist_check_message">已阅读并同意</string>
+    <string name="regist_confirm_title">验证码短信将发送至此号码</string>
+    <string name="regist_country_label">国家或地区</string>
+    <string name="regist_default_country">中国     </string>
+    <string name="regist_default_preCode">86</string>
+    <string name="regist_select_country">选择国家或地区代码</string>
+    <string name="regist_tel_hint">请输入手机号</string>
+    <string name="regist_tip">请选择您的国家或地区并输入手机号</string>
+    <string name="regist_validate_pre_code">请选择国家或地区</string>
+    <string name="regist_validate_protocol">请阅读并同意注册协议</string>
+    <string name="regist_validate_tel">请输入手机号码</string>
+    <string name="regist_validate_tel_invalid">您输入的是一个无效的手机号码</string>
+    <string name="repeatingInterval">重复间隔</string>
+    <string name="repeatingNum">重复数</string>
+    <string name="repeatingNumHint">-1表示一直重复</string>
+    <string name="repeatingUnit">重复单位</string>
+    <string name="reques_error_url">错误的请求地址</string>
+    <string name="resetpassword">设置新密码</string>
+    <string name="resetpassword_btn_send_verify">重新发送</string>
+    <string name="resetpassword_confirm">确认密码</string>
+    <string name="resetpassword_confirm_hint">请再次输入密码</string>
+    <string name="resetpassword_newpassword">输入新密码</string>
+    <string name="resetpassword_newpassword_hint">请设置新密码</string>
+    <string name="resetpassword_tip">验证码短信已发送至此号码</string>
+    <string name="resetpassword_validate_confirm">请再次输入密码</string>
+    <string name="resetpassword_validate_diff">两次密码输入不一致\r\n请检查并再次输入</string>
+    <string name="resetpassword_validate_invalid">请输入正确格式密码</string>
+    <string name="resetpassword_validate_password">请设置新密码</string>
+    <string name="resetpassword_validate_verify">请输入验证码</string>
+    <string name="resetpassword_verify_hint">请输入验证码</string>
+    <string name="scan">扫一扫</string>
+    <string name="screenOn">开屏</string>
+    <string name="search">搜索</string>
+    <string name="search_text">根据通知ID或标题内容查找...</string>
+    <string name="second">秒</string>
+    <string name="server_exception">服务器异常</string>
+    <string name="server_or_net_error">服务器或网络出错了</string>
+    <string name="service">服务</string>
+    <string name="setpassword">设置密码</string>
+    <string name="setpassword_btn_send_verify">重新发送</string>
+    <string name="setpassword_confirm_hint">请再次输入密码</string>
+    <string name="setpassword_setpassword_hint">请输入密码</string>
+    <string name="setpassword_tip">验证码短信已发送至此号码</string>
+    <string name="setpassword_validate_verify">请输入验证码</string>
+    <string name="setpassword_verify_code">请输入验证码</string>
+    <string name="setting">设置</string>
+    <string name="settings">我</string>
+    <string name="share">分享</string>
+    <string name="share_to">分享到</string>
+    <string name="share_waiting">分享请求中，请稍候...</string>
+    <string name="sina_weibo">新浪微博</string>
+    <string name="smallIconDrawable">小图标</string>
+    <string name="soundDrawable">声音</string>
+    <string name="specialDay">节日</string>
+    <string name="start_download_title">开始下载更新程序..</string>
+    <string name="tb_munion_tip_download_prefix">正在下载:</string>
+    <string name="tengxun_weibo">腾讯微博</string>
+    <string name="ticker">提示</string>
+    <string name="title">标题</string>
+    <string name="try_login_again">您的账号已在另一设备上成功登录，请注意账号安全。</string>
+    <string name="tumblr_content">Tumblr只支持文本，图片，图文分享</string>
+    <string name="tumblr_no_client">未安装Tumblr客户端</string>
+    <string name="tumblr_no_content">请设置分享内容</string>
+    <string name="tumblr_showword">Tumblr</string>
+    <string name="umeng_common_action_cancel">Cancel</string>
+    <string name="umeng_common_action_continue">Continue</string>
+    <string name="umeng_common_action_info_exist">The app is already in downloading list.</string>
+    <string name="umeng_common_action_pause">Pause</string>
+    <string name="umeng_common_download_failed">Download Failed! </string>
+    <string name="umeng_common_download_finish">Download finished,click to install it.</string>
+    <string name="umeng_common_download_notification_prefix">Downloading: </string>
+    <string name="umeng_common_icon">icon</string>
+    <string name="umeng_common_info_interrupt">dowload interrupted.</string>
+    <string name="umeng_common_network_break_alert">Please make sure you are connected to internet, download failed</string>
+    <string name="umeng_common_patch_finish">Patch finished,click to install it.</string>
+    <string name="umeng_common_pause_notification_prefix">Pause: </string>
+    <string name="umeng_common_silent_download_finish">New version is ready,click to install it.</string>
+    <string name="umeng_common_start_download_notification">Download start.</string>
+    <string name="umeng_common_start_patch_notification">Patch start.</string>
+    <string name="umeng_example_home_btn_plus">社交分享</string>
+    <string name="umeng_socialize_back" translatable="false">返回</string>
+    <string name="umeng_socialize_cancel_btn_str">取消</string>
+    <string name="umeng_socialize_comment" translatable="false">评论</string>
+    <string name="umeng_socialize_comment_detail" translatable="false">评论详情</string>
+    <string name="umeng_socialize_content_hint">说点啥…</string>
+    <string name="umeng_socialize_friends" translatable="false">关注的好友</string>
+    <string name="umeng_socialize_img_des"/>
+    <string name="umeng_socialize_laiwang_default_content">友盟社会化组件（SDK）让移动应用快速整合社交分享功能</string>
+    <string name="umeng_socialize_login">登录</string>
+    <string name="umeng_socialize_login_qq">QQ空间</string>
+    <string name="umeng_socialize_mail">邮件</string>
+    <string name="umeng_socialize_msg_hor" translatable="false">小时前</string>
+    <string name="umeng_socialize_msg_min" translatable="false">分钟前</string>
+    <string name="umeng_socialize_msg_sec" translatable="false">秒前</string>
+    <string name="umeng_socialize_near_At" translatable="false">最近\@的好友</string>
+    <string name="umeng_socialize_network_break_alert" translatable="false">请连接网络后再尝试！</string>
+    <string name="umeng_socialize_send" translatable="false">发布</string>
+    <string name="umeng_socialize_send_btn_str">发送</string>
+    <string name="umeng_socialize_share">分享</string>
+    <string name="umeng_socialize_share_content">友盟社会化组件（SDK）让移动应用快速整合社交分享功能，我们简化了社交平台的接入，为开发者提供坚实的基础服务。（一）支持各大主流社交平台， 
+												（二）支持图片、文字、gif动图、音频、视频；@好友，关注官方微博等功能。
+												（三）提供详尽的后台用户社交行为分析。www.umeng.com/social</string>
+    <string name="umeng_socialize_sina">新浪</string>
+    <string name="umeng_socialize_sms">短信</string>
+    <string name="umeng_socialize_text_add_custom_platform">请配置用户平台</string>
+    <string name="umeng_socialize_text_alipay_key">支付宝</string>
+    <string name="umeng_socialize_text_authorize">授权</string>
+    <string name="umeng_socialize_text_choose_account">选择已有帐号登录</string>
+    <string name="umeng_socialize_text_comment_hint">说点什么吧…</string>
+    <string name="umeng_socialize_text_douban_key">豆瓣网</string>
+    <string name="umeng_socialize_text_evernote_key">印象笔记</string>
+    <string name="umeng_socialize_text_facebook_key">facebook</string>
+    <string name="umeng_socialize_text_flickr_key">Flickr</string>
+    <string name="umeng_socialize_text_foursquare_key">Foursquare</string>
+    <string name="umeng_socialize_text_friend_list">好友列表</string>
+    <string name="umeng_socialize_text_googleplus_key">GooglePlus</string>
+    <string name="umeng_socialize_text_instagram_key">instagram</string>
+    <string name="umeng_socialize_text_kakao_key">Kakao Talk</string>
+    <string name="umeng_socialize_text_laiwang_dynamic_key">来往动态</string>
+    <string name="umeng_socialize_text_laiwang_key">来往</string>
+    <string name="umeng_socialize_text_laiwangdynamic_key">来往动态</string>
+    <string name="umeng_socialize_text_line_key">LINE</string>
+    <string name="umeng_socialize_text_linkedin_key">Linkedin</string>
+    <string name="umeng_socialize_text_loading_message">载入中,请稍候...</string>
+    <string name="umeng_socialize_text_login_fail">登录失败了，请重试</string>
+    <string name="umeng_socialize_text_pinterest_key">pinterest</string>
+    <string name="umeng_socialize_text_pocket_key">pocket</string>
+    <string name="umeng_socialize_text_qq_key">QQ</string>
+    <string name="umeng_socialize_text_qq_zone_key">QQ空间</string>
+    <string name="umeng_socialize_text_renren_key">人人网</string>
+    <string name="umeng_socialize_text_sina_key">微博</string>
+    <string name="umeng_socialize_text_tencent_key">腾讯微博</string>
+    <string name="umeng_socialize_text_tencent_no_connection">无法连接到腾讯微博客户端</string>
+    <string name="umeng_socialize_text_tencent_no_install">未安装腾讯微博客户端</string>
+    <string name="umeng_socialize_text_tencent_oauth_login_fail">授权登录失败</string>
+    <string name="umeng_socialize_text_tencent_version_no_match">版本不匹配，SSO只对微博客户端V3.8.1及以上的版本提供支持</string>
+    <string name="umeng_socialize_text_tumblr_key">Tumblr</string>
+    <string name="umeng_socialize_text_twitter_key">twitter</string>
+    <string name="umeng_socialize_text_ucenter">个人中心</string>
+    <string name="umeng_socialize_text_unauthorize">未授权</string>
+    <string name="umeng_socialize_text_visitor">游客</string>
+    <string name="umeng_socialize_text_waitting">请稍候...</string>
+    <string name="umeng_socialize_text_waitting_message">,请稍候...</string>
+    <string name="umeng_socialize_text_waitting_qq">跳转QQ中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_qzone">跳转QZone中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_redirect">跳转</string>
+    <string name="umeng_socialize_text_waitting_share">分享中…</string>
+    <string name="umeng_socialize_text_waitting_weixin">跳转微信中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_weixin_circle">跳转朋友圈中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_yixin">跳转易信中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_yixin_circle">跳转易信朋友圈中，请稍候...</string>
+    <string name="umeng_socialize_text_weixin_circle_key">微信朋友圈</string>
+    <string name="umeng_socialize_text_weixin_key">微信</string>
+    <string name="umeng_socialize_text_whatsapp_key">WhatsApp</string>
+    <string name="umeng_socialize_text_ydnote_key">有道云笔记</string>
+    <string name="umeng_socialize_text_yixin_key">易信</string>
+    <string name="umeng_socialize_text_yixincircle_key">易信朋友圈</string>
+    <string name="umeng_socialize_tip_blacklist" translatable="false">对不起，因为违反了用户协议您已被禁言.</string>
+    <string name="umeng_socialize_tip_loginfailed" translatable="false">登录失败…</string>
+    <string name="umeng_socialize_ucenter_login_title_guide" translatable="false">游客登录</string>
+    <string name="umeng_socialize_ucenter_login_title_platform" translatable="false">登录帐号</string>
+    <string name="update_local_notification">修改</string>
+    <string name="update_version_false"> 本次更新失败，请稍候重试</string>
+    <string name="use_wxpay_after_install_weixin">请安装微信后使用微信支付~</string>
+    <string name="userinfo">请完善个人信息</string>
+    <string name="userinfo_label_nick">昵称</string>
+    <string name="userinfo_nick_hint">4-10位中英文字符或数字</string>
+    <string name="userinfo_nick_tip">请输入4-10位中英文字符或数字</string>
+    <string name="userinfo_tip">请上传个人照片并设置昵称：</string>
+    <string name="userinfo_validate_nick">请输入昵称</string>
+    <string name="userinfo_validate_nick_invalid">请输入4-10位中英文字符或数字</string>
+    <string name="verificationnotice">验证通知</string>
+    <string name="weixing_haoyou">微信好友</string>
+    <string name="weixing_pengyou_quan">微信朋友圈</string>
+    <string name="whatsapp_content">有道云笔记只支持文本，图片</string>
+    <string name="whatsapp_no_client">未安装有WhatsApp客户端</string>
+    <string name="whatsapp_no_content">请设置分享内容</string>
+    <string name="whatsapp_showword">WhatsApp</string>
+    <string name="year">年</string>
+    <string name="ynote_content">有道云笔记只支持文本，图片，图文分享</string>
+    <string name="ynote_no_client">未安装有道云笔记客户端</string>
+    <string name="ynote_no_content">请设置分享内容</string>
+    <string name="ynote_showword">有道云笔记</string>
+    <string name="you_have_not_install_weixin">您还没有安装微信哦</string>
+    <string name="your_weixin_version_not_support">您的微信版本过低，请下载最新的版本后再尝试</string>
+    <style name="ACPLDialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Aliwx_ChattingDetailStyle_default" parent="@style/Aliwx_ContentOverlay_default">
+        <item name="aliwx_comment_left_bg">@drawable/aliwx_comment_l_bg</item>
+        <item name="aliwx_comment_right_bg">@drawable/aliwx_comment_r_bg</item>
+        <item name="aliwx_chatbottom_bg">@drawable/aliwx_record_bg</item>
+        <item name="aliwx_record_btn_bg">@drawable/aliwx_record_btn_bg</item>
+        <item name="aliwx_chatcontent_left_textcolor">@color/aliwx_black</item>
+        <item name="aliwx_chatcontent_left_textsize">@dimen/aliwx_common_text_size</item>
+        <item name="aliwx_chatcontent_right_textcolor">@android:color/white</item>
+        <item name="aliwx_chatcontent_right_textsize">@dimen/aliwx_common_text_size</item>
+        <item name="aliwx_title_rightbutton_visible">@integer/aliwx_visible</item>
+        <item name="aliwx_title_left_text">@string/aliwx_back</item>
+        <item name="aliwx_title_left_textsize">@dimen/aliwx_common_text_size</item>
+        <item name="aliwx_title_left_textcolor">@drawable/aliwx_commont_title_btn_text</item>
+        <item name="aliwx_title_left_icon">@drawable/aliwx_common_back_btn_bg</item>
+        <item name="aliwx_chatbottom_expand">@drawable/aliwx_reply_bar_expand</item>
+        <item name="aliwx_chatbottom_smily">@drawable/aliwx_reply_bar_face_bg</item>
+        <item name="aliwx_chatbottom_record">@drawable/aliwx_reply_bar_record_bg</item>
+        <item name="aliwx_chattime_bg">@drawable/aliwx_time_text_view_border</item>
+    </style>
+    <style name="Aliwx_ChattingDetailStyle_green" parent="@style/Aliwx_ChattingDetailStyle_default">
+        <item name="aliwx_comment_left_bg">@drawable/aliwx_comment_l_green_bg</item>
+        <item name="aliwx_comment_right_bg">@drawable/aliwx_comment_r_green_bg</item>
+    </style>
+    <style name="Aliwx_ChattingDetailStyle_orange" parent="@style/Aliwx_ChattingDetailStyle_default">
+        <item name="aliwx_comment_left_bg">@drawable/aliwx_comment_l_orange_bg</item>
+        <item name="aliwx_comment_right_bg">@drawable/aliwx_comment_r_orange_bg</item>
+    </style>
+    <style name="Aliwx_ContentOverlay" parent="@android:style/Theme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:screenOrientation">portrait</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowAnimationStyle">@style/Aliwx_WXAnimation.Activity</item>
+    </style>
+    <style name="Aliwx_ContentOverlay_default" parent="@style/Aliwx_ContentOverlay">
+        <item name="aliwx_title_backgroud">@color/aliwx_common_bg_white_color</item>
+        <item name="aliwx_title_textcolor">@color/aliwx_common_text_color</item>
+        <item name="aliwx_title_textsize">@dimen/aliwx_common_text_size</item>
+        <item name="aliwx_bg_color">@color/aliwx_common_bg_white_color</item>
+    </style>
+    <style name="Aliwx_ConverationStyle_default" parent="@style/Aliwx_ContentOverlay_default">
+        <item name="aliwx_divider_color">@color/aliwx_divider_color</item>
+        <item name="aliwx_divider_height">@dimen/aliwx_title_shadow_height</item>
+        <item name="aliwx_cvsnname_textsize">@dimen/aliwx_common_text_size</item>
+        <item name="aliwx_cvsname_textcolor">@color/aliwx_common_text_color</item>
+        <item name="aliwx_cvscontent_textsize">@dimen/aliwx_font_third_grade</item>
+        <item name="aliwx_cvscontent_textcolor">@color/aliwx_common_text_color2</item>
+        <item name="aliwx_cvstime_textsize">@dimen/aliwx_font_third_grade</item>
+        <item name="aliwx_cvstime_textcolor">@color/aliwx_third_text_color</item>
+        <item name="aliwx_title_leftbutton_visible">@integer/aliwx_visible</item>
+    </style>
+    <style name="Aliwx_DialogWindowTitle">
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.DialogWindowTitle</item>
+    </style>
+    <style name="Aliwx_Theme.Translucent" parent="android:style/Theme.Translucent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorForeground">#fff</item>
+    </style>
+    <style name="Aliwx_WXAnimation.Activity" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/aliwx_slide_right_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/aliwx_slide_left_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/aliwx_slide_left_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/aliwx_slide_right_out</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="ChoicePreferenceButton">
+        <item name="android:textColor">#ff595c61</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:minWidth">60.0dip</item>
+    </style>
+    <style name="MMFontTipInList">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="MMFontTitleInList">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">#ff595c61</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="MMFriendListItem">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingRight">6.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="MMListCatalog">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff595c61</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">#8FC31F</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">2.0dip</item>
+        <item name="android:paddingBottom">2.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="MMListItem">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingLeft">4.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="MMTabButton">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_width">64dp</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="MessengerButton">
+    <item name="android:clickable">true</item>
+  </style>
+    <style name="MessengerButton.Blue">
+    <item name="android:background">@drawable/messenger_button_blue_bg_selector</item>
+  </style>
+    <style name="MessengerButton.Blue.Large">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">44dp</item>
+    <item name="android:layout_marginLeft">16dp</item>
+    <item name="android:layout_marginRight">16dp</item>
+  </style>
+    <style name="MessengerButton.Blue.Small">
+    <item name="android:layout_width">158dp</item>
+    <item name="android:layout_height">36dp</item>
+  </style>
+    <style name="MessengerButton.White">
+    <item name="android:background">@drawable/messenger_button_white_bg_selector</item>
+  </style>
+    <style name="MessengerButton.White.Large">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">44dp</item>
+    <item name="android:layout_marginLeft">16dp</item>
+    <item name="android:layout_marginRight">16dp</item>
+  </style>
+    <style name="MessengerButton.White.Small">
+    <item name="android:layout_width">158dp</item>
+    <item name="android:layout_height">36dp</item>
+  </style>
+    <style name="MessengerButtonText">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_gravity">center</item>
+    <item name="android:drawablePadding">4dp</item>
+    <item name="android:gravity">center</item>
+    <!--suppress NewApi -->
+    <!-- <item name="android:textAllCaps">true</item> -->
+    <item name="android:textSize">14sp</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+    <style name="MessengerButtonText.Blue">
+    <item name="android:textColor">#ffffff</item>
+  </style>
+    <style name="MessengerButtonText.Blue.Large">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_large_white</item>
+  </style>
+    <style name="MessengerButtonText.Blue.Small">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_small_white</item>
+  </style>
+    <style name="MessengerButtonText.White">
+    <item name="android:textColor">#0084ff</item>
+  </style>
+    <style name="MessengerButtonText.White.Large">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_large_blue</item>
+  </style>
+    <style name="MessengerButtonText.White.Small">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_small_blue</item>
+  </style>
+    <style name="NavPage">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center_horizontal</item>
+        <!-- <item name="android:background">@drawable/nav_page</item> -->
+        <item name="android:background">@color/white</item>
+    </style>
+    <style name="ProgressHUD" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme.UMDefault" parent="android:style/Theme.NoTitleBar"/>
+    <style name="Theme.UMDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="aliwx_My_Theme_Dialog_Alert">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowTitleStyle">@style/Aliwx_DialogWindowTitle</item>
+    </style>
+    <style name="aliwx_chatting_detail_chat_send_style">
+        <item name="android:layout_width">@dimen/aliwx_send_button_w</item>
+        <item name="android:layout_height">@dimen/aliwx_expand_button_size</item>
+        <item name="android:layout_marginLeft">8dip</item>
+        <item name="android:layout_marginRight">8dip</item>
+        <item name="android:background">@drawable/aliwx_common_blue_btn_bg</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:text">@string/aliwx_send</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/aliwx_font_second_grade</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowColor">#bf07568b</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">-1</item>
+    </style>
+    <style name="aliwx_chatting_detail_expand_style">
+        <item name="android:layout_width">27dp</item>
+        <item name="android:layout_height">27dp</item>
+        <item name="android:layout_marginRight">8dip</item>
+        <item name="android:button">@null</item>
+        <item name="android:background">@drawable/aliwx_reply_bar_expand</item>
+    </style>
+    <style name="aliwx_chatting_detail_input_text_style">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">34dp</item>
+        <item name="android:background">@drawable/aliwx_input_text_bg</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/aliwx_common_text_size</item>
+        <item name="android:maxLength">@integer/aliwx_max_chatting_word_length</item>
+        <item name="android:maxLines">4</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="aliwx_chatting_detail_item_style">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:paddingBottom">@dimen/aliwx_common_half_safe_margin</item>
+        <item name="android:paddingLeft">@dimen/aliwx_large_padding</item>
+        <item name="android:paddingRight">@dimen/aliwx_large_padding</item>
+        <item name="android:paddingTop">@dimen/aliwx_common_half_safe_margin</item>
+    </style>
+    <style name="aliwx_chatting_detail_phrase_style">
+        <item name="android:layout_width">27dp</item>
+        <item name="android:layout_height">27dp</item>
+        <item name="android:layout_marginRight">8dip</item>
+        <item name="android:button">@null</item>
+        <item name="android:background">@drawable/aliwx_reply_bar_face_bg</item>
+    </style>
+    <style name="aliwx_chatting_detail_record_button_style">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/aliwx_common_text_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">33dip</item>
+        <item name="android:background">@drawable/aliwx_record_btn_bg</item>
+        <item name="android:text">@string/aliwx_speak_toast</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="aliwx_chatting_detail_record_style">
+        <item name="android:layout_width">27dp</item>
+        <item name="android:layout_height">27dp</item>
+        <item name="android:layout_marginLeft">8dip</item>
+        <item name="android:layout_marginRight">8dip</item>
+        <item name="android:button">@null</item>
+        <item name="android:background">@drawable/aliwx_reply_bar_record_bg</item>
+    </style>
+    <style name="aliwx_chatting_detail_show_time_style">
+        <item name="android:textSize">@dimen/aliwx_font_third_grade</item>
+        <item name="android:textColor">@color/aliwx_color_gray_02</item>
+    </style>
+    <style name="aliwx_chatting_detail_sysmsg_style">
+        <item name="android:textSize">@dimen/aliwx_font_third_grade</item>
+        <item name="android:textColor">@color/aliwx_chatting_detail_sysmsg_color</item>
+        <item name="android:paddingBottom">5dip</item>
+        <item name="android:paddingLeft">15dip</item>
+        <item name="android:paddingRight">15dip</item>
+        <item name="android:paddingTop">5dip</item>
+    </style>
+    <style name="aliwx_chatting_detail_text_left_style">
+        <item name="android:textSize">@dimen/aliwx_common_text_size</item>
+        <item name="android:textColor">@color/aliwx_black</item>
+        <item name="android:textColorLink">@color/aliwx_text_color_link</item>
+    </style>
+    <style name="aliwx_chatting_detail_text_right_style">
+        <item name="android:textSize">@dimen/aliwx_common_text_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textColorLink">@android:color/white</item>
+    </style>
+    <style name="aliwx_check_code_question_style">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/aliwx_common_text_size</item>
+        <item name="android:textColor">@color/aliwx_common_text_color</item>
+    </style>
+    <style name="aliwx_column_first_grade_style" parent="aliwx_common_text_shadow_white_offset_0_2_75_down">
+        <item name="android:textSize">@dimen/aliwx_font_first_grade</item>
+        <item name="android:textColor">@color/aliwx_first_grade_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="aliwx_column_first_grade_with_click_style" parent="aliwx_column_first_grade_style">
+        <item name="android:textColor">@drawable/aliwx_column_first_grade_color</item>
+        <item name="android:duplicateParentState">true</item>
+    </style>
+    <style name="aliwx_column_msg_style_1_line">
+        <item name="android:textSize">@dimen/aliwx_font_third_grade</item>
+        <item name="android:textColor">@color/aliwx_common_text_color2</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:duplicateParentState">true</item>
+    </style>
+    <style name="aliwx_column_msg_time_style">
+        <item name="android:textSize">@dimen/aliwx_font_third_grade</item>
+        <item name="android:textColor">@color/aliwx_third_text_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:duplicateParentState">true</item>
+    </style>
+    <style name="aliwx_column_msg_title_style">
+        <item name="android:textSize">@dimen/aliwx_common_text_size</item>
+        <item name="android:textColor">@color/aliwx_common_text_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:duplicateParentState">true</item>
+    </style>
+    <style name="aliwx_column_second_grade_style" parent="aliwx_common_text_shadow_white_offset_0_2_75_down">
+        <item name="android:textSize">@dimen/aliwx_font_second_grade</item>
+        <item name="android:textColor">@color/aliwx_second_grade_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="aliwx_column_second_grade_with_click_style" parent="aliwx_column_second_grade_style">
+        <item name="android:textColor">@drawable/aliwx_column_second_grade_color</item>
+        <item name="android:duplicateParentState">true</item>
+    </style>
+    <style name="aliwx_column_third_grade_style" parent="aliwx_common_text_shadow_white_offset_0_2_75_down">
+        <item name="android:textSize">@dimen/aliwx_font_third_grade</item>
+        <item name="android:textColor">@color/aliwx_third_grade_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="aliwx_column_third_grade_with_click_style" parent="aliwx_column_third_grade_style">
+        <item name="android:textColor">@drawable/aliwx_column_third_grade_color</item>
+        <item name="android:duplicateParentState">true</item>
+    </style>
+    <style name="aliwx_common_first_text_style">
+        <item name="android:textSize">15dip</item>
+        <item name="android:textColor">@color/aliwx_common_text_color</item>
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="aliwx_common_head_style">
+        <item name="android:layout_width">38dip</item>
+        <item name="android:layout_height">38dip</item>
+        <item name="android:layout_marginLeft">14dip</item>
+        <item name="android:layout_marginRight">14dip</item>
+    </style>
+    <style name="aliwx_common_head_view_style">
+        <item name="android:layout_width">@dimen/aliwx_common_head_size</item>
+        <item name="android:layout_height">@dimen/aliwx_common_head_size</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="aliwx_common_head_view_style_external">
+        <item name="android:paddingLeft">2.6dip</item>
+        <item name="android:paddingRight">4dip</item>
+        <item name="android:paddingTop">2.6dip</item>
+        <item name="android:paddingBottom">4dip</item>
+        <item name="android:layout_width">@dimen/aliwx_normal_head_size</item>
+        <item name="android:layout_height">@dimen/aliwx_normal_head_size</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="aliwx_common_popup_bg_animation">
+        <item name="android:windowEnterAnimation">@anim/aliwx_alpha_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/aliwx_alpha_fade_out</item>
+    </style>
+    <style name="aliwx_common_text_shadow_white_offset_0_2_75_down">
+        <item name="android:shadowColor">#bfffffff</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+    <style name="aliwx_common_title_left_btn_shadow">
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@drawable/aliwx_commont_title_btn_text</item>
+        <item name="android:textSize">@dimen/aliwx_common_text_size</item>
+        <item name="android:drawableLeft">@drawable/aliwx_common_back_btn_bg</item>
+        <item name="android:layout_marginLeft">5dip</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="aliwx_common_title_left_btn_shadow_white">
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@drawable/aliwx_commont_title_btn_text</item>
+        <item name="android:textSize">@dimen/aliwx_common_text_size</item>
+        <item name="android:drawableLeft">@drawable/aliwx_common_back_btn_bg_white</item>
+        <item name="android:layout_marginLeft">5dip</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="aliwx_common_title_right_btn_shadow">
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@drawable/aliwx_commont_title_btn_text</item>
+        <item name="android:textSize">@dimen/aliwx_common_text_size</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_marginRight">@dimen/aliwx_column_up_unit_margin</item>
+        <item name="android:background">@null</item>
+        
+    </style>
+    <style name="aliwx_common_title_right_btn_shadow_white">
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/aliwx_color_white</item>
+        <item name="android:textSize">@dimen/aliwx_common_text_size</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_marginRight">@dimen/aliwx_column_up_unit_margin</item>
+        <item name="android:background">@null</item>
+
+    </style>
+    <style name="aliwx_common_title_style">
+        <item name="android:background">@color/aliwx_common_bg_white_color</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/aliwx_title_bar_height</item>
+    </style>
+    <style name="aliwx_common_title_style_blue">
+        <item name="android:background">@color/aliwx_common_bg_blue_color</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/aliwx_title_bar_height</item>
+    </style>
+    <style name="aliwx_common_title_text_shadow">
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:textColor">@drawable/aliwx_commont_title_btn_text</item>
+        <item name="android:textSize">@dimen/aliwx_common_text_size</item>
+        <item name="android:paddingLeft">@dimen/aliwx_title_middle_margin</item>
+        <item name="android:paddingRight">@dimen/aliwx_title_middle_margin</item>
+    </style>
+    <style name="aliwx_common_title_text_shadow_white">
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:textColor">@color/aliwx_color_white</item>
+        <item name="android:textSize">@dimen/aliwx_common_text_size</item>
+        <item name="android:paddingLeft">@dimen/aliwx_title_middle_margin</item>
+        <item name="android:paddingRight">@dimen/aliwx_title_middle_margin</item>
+    </style>
+    <style name="aliwx_common_white_btn_text_style">
+        <item name="android:textSize">@dimen/aliwx_font_third_grade</item>
+        <item name="android:textColor">@color/aliwx_white_btn_text_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="aliwx_dividedListStyle" parent="@android:style/Widget.ListView">
+        <item name="android:divider">#E9E9E9</item>
+        <item name="android:dividerHeight">1px</item>
+    </style>
+    <style name="aliwx_messageactivity_menu_animation">
+        <item name="android:windowEnterAnimation">@anim/aliwx_menu_in</item>
+        <item name="android:windowExitAnimation">@anim/aliwx_menu_out</item>
+    </style>
+    <style name="aliwx_pull_to_refresh_text_sytle">
+        <item name="android:textSize">@dimen/aliwx_font_third_grade</item>
+        <item name="android:textColor">@color/aliwx_refresh_head_color</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowColor">#bfffffff</item>
+    </style>
+    <style name="aliwx_radio_button_style">
+        <item name="android:background">@drawable/aliwx_smily_tab_bg</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/aliwx_font_third_grade</item>
+        <item name="android:textColor">@drawable/aliwx_smily_text_color</item>
+        <item name="android:button">@null</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+    </style>
+    <style name="aliwx_self_title_text_shadow">
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@drawable/aliwx_commont_title_btn_text</item>
+        <item name="android:textSize">@dimen/aliwx_common_text_size</item>
+    </style>
+    <style name="chat_content_date_style">
+        <item name="android:minHeight">50dp</item>
+        <item name="android:gravity">left|center</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">#bfbfbf</item>
+    </style>
+    <style name="chat_text_name_style">
+        <item name="android:textColor">#818181</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="com_facebook_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/com_facebook_button_background</item>
+        <item name="android:drawablePadding">6dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">14.0dp</item>
+    </style>
+    <style name="com_facebook_button_like" parent="com_facebook_button">
+        <item name="android:background">@drawable/com_facebook_button_like_background</item>
+    </style>
+    <style name="com_facebook_button_send" parent="com_facebook_button">
+        <item name="android:background">@drawable/com_facebook_button_send_background</item>
+        <item name="android:drawableLeft">@drawable/com_facebook_button_send_icon</item>
+        <item name="android:text">@string/com_facebook_send_button_text</item>
+    </style>
+    <style name="com_facebook_button_share" parent="com_facebook_button">
+        <item name="android:drawableLeft">@drawable/com_facebook_button_icon</item>
+        <item name="android:text">@string/com_facebook_share_button_text</item>
+    </style>
+    <style name="com_facebook_loginview_default_style" parent="com_facebook_button">
+        <item name="android:drawableLeft">@drawable/com_facebook_button_icon</item>
+    </style>
+    <style name="com_facebook_loginview_silver_style" parent="com_facebook_loginview_default_style">
+        <item name="android:background">@drawable/com_facebook_button_login_silver_background</item>
+        <item name="android:drawableLeft">@null</item>
+        <item name="android:textColor">#4b5164</item>
+    </style>
+    <style name="confirm_message">
+        <item name="android:textSize">20dp</item>
+    </style>
+    <style name="confirm_title">
+        <item name="android:textColor">@color/orange_color</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="edittext_style">
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">@dimen/fangkuai_height</item>
+        <item name="android:background">@drawable/fangkuai_grayline_whitebg</item>
+        <item name="android:textCursorDrawable" ns1:ignore="NewApi">@drawable/icon_cursor</item>
+        <item name="android:textColorHint">@color/desc_text_color</item>
+        <item name="android:textColor">@color/title_text_color</item>
+        <item name="android:textSize">@dimen/desc_size</item>
+    </style>
+    <style name="goods_focus_price_style">
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowColor">#bfffffff</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:textColor">@color/aliwx_order_price_color</item>
+        <item name="android:textSize">@dimen/aliwx_font_second_grade</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:duplicateParentState">true</item>
+    </style>
+    <style name="img_switch_on_off">
+        <item name="android:layout_width">60dip</item>
+        <item name="android:layout_height">48dip</item>
+        <item name="android:paddingRight">10dip</item>
+    </style>
+    <style name="label">
+        <item name="android:textColor">#666666</item>
+    </style>
+    <style name="list">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:fadingEdgeLength">0dp</item>
+        <item name="android:cacheColorHint">@android:color/black</item>
+        <item name="android:scrollbars">none</item>
+        <item name="android:listSelector">@drawable/list_item_selected</item>
+    </style>
+    <style name="loading_dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/loading_bg</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="my_txt">
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+    </style>
+    <style name="order_focus_grey_style">
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowColor">#bfffffff</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:paddingRight">5dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/aliwx_order_grey_color</item>
+        <item name="android:textSize">@dimen/aliwx_font_second_grade</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:duplicateParentState">true</item>
+    </style>
+    <style name="order_focus_id_grey_style" parent="@style/order_focus_id_style">
+        <item name="android:textColor">@color/aliwx_order_grey_color</item>
+    </style>
+    <style name="order_focus_id_style">
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowColor">#bfffffff</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:paddingRight">5dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/aliwx_black</item>
+        <item name="android:textSize">@dimen/aliwx_font_second_grade</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:duplicateParentState">true</item>
+    </style>
+    <style name="progress_bar_circle">
+        <item name="android:src">@drawable/ic_progress</item>
+    </style>
+    <style name="progress_bar_circle_white">
+        <item name="android:src">@drawable/ic_progress_white</item>
+    </style>
+    <style name="roomRatingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:progressDrawable">@drawable/room_rating_bar</item>
+        <item name="android:minHeight">55dp</item>
+        <item name="android:maxHeight">55dp</item>
+    </style>
+    <style name="splashActivitytheme" parent="android:Theme.Light.NoTitleBar">
+       <item name="android:windowFullscreen">true</item>
+       <item name="android:windowNoTitle">true</item>
+       <item name="android:windowBackground">@color/white</item>
+       <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+   </style>
+    <style name="titleText">
+        <item name="android:textSize">22dip</item>
+    </style>
+    <style name="toast_message">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="tooltip_bubble_text">
+	    <item name="android:textColor">@android:color/white</item>
+	    <item name="android:gravity">left</item>
+	    <item name="android:textSize">12sp</item>
+	    <item name="android:shadowDy">-1</item>
+	    <item name="android:shadowRadius">0.25</item>
+	    <item name="android:shadowColor">#40000000</item>
+    </style>
+    <style name="trade_focus_title_style">
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowColor">#bfffffff</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:paddingRight">5dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/aliwx_black</item>
+        <item name="android:textSize">@dimen/aliwx_common_text_size</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:duplicateParentState">true</item>
+    </style>
+    <style name="umeng_socialize_action_bar_item_im">
+        <item name="android:layout_width">25dp</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="umeng_socialize_action_bar_item_tv">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:text">999</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="umeng_socialize_action_bar_itemlayout">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="umeng_socialize_dialog_anim_fade">
+        <item name="android:windowEnterAnimation">@anim/umeng_socialize_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/umeng_socialize_fade_out</item>
+    </style>
+    <style name="umeng_socialize_dialog_animations">
+        <item name="android:windowEnterAnimation">@anim/umeng_socialize_slide_in_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/umeng_socialize_slide_out_from_bottom</item>
+    </style>
+    <style name="umeng_socialize_divider">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/umeng_socialize_divider</item>
+    </style>
+    <style name="umeng_socialize_edit_padding">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">@color/umeng_socialize_list_item_bgcolor</item>
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:layout_marginBottom">6dp</item>
+    </style>
+    <style name="umeng_socialize_list_item">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:background">@color/umeng_socialize_list_item_bgcolor</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+    </style>
+    <style name="umeng_socialize_popup_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    <style name="umeng_socialize_popup_dialog_anim" parent="@style/umeng_socialize_popup_dialog">
+        <item name="android:windowAnimationStyle">@style/umeng_socialize_dialog_animations</item>
+    </style>
+    <style name="umeng_socialize_shareboard_animation">
+        <item name="android:windowEnterAnimation">@anim/umeng_socialize_shareboard_animation_in</item>
+        <item name="android:windowExitAnimation">@anim/umeng_socialize_shareboard_animation_out</item>
+    </style>
+</resources>

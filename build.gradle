@@ -1,0 +1,85 @@
+apply plugin: 'com.android.application'
+buildscript {
+    repositories {
+        jcenter() // or mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.2'
+    }
+}
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+}
+
+dependencies {
+    compile fileTree(include: '*.jar', dir: 'libs')
+    compile project(':handmarkPulltorefreshLibrary-master')
+    compile project(':wheel_lib')
+    compile project(':android-auto-scroll-view-pager-master')
+    compile project(':OneSDK_dk_IMKit-1.8.2')
+    compile project(':imgload_lib')
+    compile project(':umeng_social_sdk_library')
+    compile project(':umeng_push_lib')
+    compile project(':immortalviewpager')
+    compile project(':DoubleDatePicker-master')
+    compile project(':android-flowlayout-master-lib')
+    compile project(':GaoDeLib')
+    compile 'com.android.support:multidex:1.0.0'
+}
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '23.0.3'
+    aaptOptions.cruncherEnabled = false
+    aaptOptions.useNewCruncher = false
+    packagingOptions {
+        exclude 'META-INF/maven/com.squareup.okio/okio/pom.properties'
+        exclude 'META-INF/maven/com.squareup.okio/okio/pom.xml'
+    }
+
+    defaultConfig {
+        multiDexEnabled true
+    }
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs']
+        }
+
+        // Move the tests to tests/java, tests/res, etc...
+        instrumentTest.setRoot('tests')
+
+        // Move the build types to build-types/<type>
+        // For instance, build-types/debug/java, build-types/debug/AndroidManifest.xml, ...
+        // This moves them out of them default location under src/<type>/... which would
+        // conflict with src/ being used by the main source set.
+        // Adding new build types or product flavors should be accompanied
+        // by a similar customization.
+        debug.setRoot('build-types/debug')
+        release.setRoot('build-types/release')
+    }
+
+    lintOptions {
+        abortOnError false
+        checkReleaseBuilds false
+        // 防止在发布的时候出现因MissingTranslation导致Build Failed!
+        disable 'MissingTranslation'
+    }
+
+    productFlavors {
+    }
+}

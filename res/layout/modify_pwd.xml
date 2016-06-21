@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/page_color"
+    android:orientation="vertical" >
+
+    <include layout="@layout/reg_headview" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:padding="10dp"
+        android:text=""
+        android:textColor="@color/desc_text_color"
+        android:textSize="@dimen/title_size"
+        android:background="@drawable/corner_edittext" 
+        android:layout_margin="10dp"
+        android:id="@+id/phone_num_text"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" >
+
+        <TextView
+            android:id="@+id/verify_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/corner_orange_red_bg"
+            android:padding="10dp"
+            android:text="获取验证码"
+            android:textColor="@color/white"
+            android:textSize="@dimen/title_size" />
+
+        <EditText
+            android:id="@+id/verify_code_edit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_toLeftOf="@id/verify_text"
+            android:background="@drawable/corner_edittext"
+            android:hint="请输入短信验证码"
+            android:inputType="number"
+            android:padding="10dp"
+            android:textSize="@dimen/title_size" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/next_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/corner_next_step_select"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="下一步"
+        android:textColor="@color/white"
+        android:textSize="@dimen/title_size" />
+
+</LinearLayout>

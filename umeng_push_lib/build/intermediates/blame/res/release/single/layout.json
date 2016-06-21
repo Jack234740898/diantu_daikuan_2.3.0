@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\res\\merged\\release\\layout\\notification_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\res\\layout\\notification_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\res\\merged\\release\\layout\\activity_add_localnotification.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\res\\layout\\activity_add_localnotification.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\res\\merged\\release\\layout\\activity_localnotification.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\res\\layout\\activity_localnotification.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\res\\merged\\release\\layout\\localnotification_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\res\\layout\\localnotification_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\res\\merged\\release\\layout\\activity_test.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\res\\layout\\activity_test.xml"
+    }
+]

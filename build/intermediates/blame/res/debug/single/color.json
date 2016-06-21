@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\color\\txt_color_gray_orange.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\color\\txt_color_gray_orange.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\color\\right_text_select_bg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\color\\right_text_select_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\color\\aliwx_at_msg_mark_all_read_text_color.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\color\\aliwx_at_msg_mark_all_read_text_color.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\color\\text_bg_color_white_orange.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\color\\text_bg_color_white_orange.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\color\\apply_loan_top_navi_view_linecolor.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\color\\apply_loan_top_navi_view_linecolor.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\color\\home_tab_top_textcolor.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\color\\home_tab_top_textcolor.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\color\\conversation_order_top_tab_textcolor_selected.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\color\\conversation_order_top_tab_textcolor_selected.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\color\\home_tab_foot_textcolor.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\color\\home_tab_foot_textcolor.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\color\\apply_loan_top_step_view_textcolor.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\color\\apply_loan_top_step_view_textcolor.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\color\\aliwx_tab_text_color.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\color\\aliwx_tab_text_color.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\color\\apply_loan_top_navi_view_textcolor.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\color\\apply_loan_top_navi_view_textcolor.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\color\\manager_detail_navi_text_color.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\color\\manager_detail_navi_text_color.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\color\\score_mark_item_text_color.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\color\\score_mark_item_text_color.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\color\\order_setting__text_color.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\res\\color\\order_setting__text_color.xml"
+    }
+]

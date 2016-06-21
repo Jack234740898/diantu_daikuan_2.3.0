@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/page_color">
+    
+    <include 
+        layout="@layout/headview_righttext"/>
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="客户会在你的个人主页看到你的描述"
+        android:textSize="@dimen/title_size"
+        android:textColor="@color/desc_text_color"
+        android:padding="10dp"/>
+
+    <EditText 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/corner_edittext"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:padding="10dp"
+        android:hint="请输入..."
+        android:textColor="@color/title_text_color"
+        android:textColorHint="@color/desc_text_color"
+        android:id="@+id/content_edit"
+        android:textSize="@dimen/title_size"
+        android:minHeight="200dp"
+        android:gravity="top"/>
+</LinearLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <include layout="@layout/headview" />
+
+    <include layout="@layout/apply_success_share" />
+
+    <LinearLayout
+        android:id="@+id/apply_success_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/sucess_green" />
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="获取优先咨询成功"
+            android:textColor="#47b74e"
+            android:textSize="@dimen/title_size" />
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:text="信贷经理会优先联系您，请您留意"
+            android:textColor="@color/desc_text_color"
+            android:textSize="@dimen/desc_size" />
+
+        <TextView
+            android:id="@+id/back_home_text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/big_corner_orange_red_bg"
+            android:gravity="center_horizontal"
+            android:paddingBottom="9dp"
+            android:paddingLeft="42dp"
+            android:paddingRight="42dp"
+            android:paddingTop="9dp"
+            android:text="返回首页"
+            android:textColor="@color/white"
+            android:textSize="@dimen/title_size" />
+    </LinearLayout>
+
+</LinearLayout>

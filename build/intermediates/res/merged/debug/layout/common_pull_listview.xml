@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/page_color"
+    android:orientation="vertical" >
+
+    <!-- android:headerDividersEnabled="false" -->
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/pull_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="0dp"
+        android:cacheColorHint="#000000"
+        android:divider="@color/line_color"
+        android:dividerHeight="@dimen/divider_line_height"
+        android:fadingEdge="none"
+        android:fadingEdgeLength="0dip"
+        android:scrollbarStyle="outsideInset"
+        android:scrollbars="none"
+        ptr:ptrDrawable="@drawable/default_ptr_rotate"
+        ptr:ptrMode="both" />
+
+    <include
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        layout="@layout/loading_layout" />
+
+    <Button
+        android:id="@+id/shouye_up_button"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:visibility="gone" />
+
+</RelativeLayout>

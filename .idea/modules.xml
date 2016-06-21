@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DoubleDatePicker-master/DoubleDatePicker-master.iml" filepath="$PROJECT_DIR$/DoubleDatePicker-master/DoubleDatePicker-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GaoDeLib/GaoDeLib.iml" filepath="$PROJECT_DIR$/GaoDeLib/GaoDeLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OneSDK_dk_IMKit-1.8.2/OneSDK_dk_IMKit-1.8.2.iml" filepath="$PROJECT_DIR$/OneSDK_dk_IMKit-1.8.2/OneSDK_dk_IMKit-1.8.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-auto-scroll-view-pager-master/android-auto-scroll-view-pager-master.iml" filepath="$PROJECT_DIR$/android-auto-scroll-view-pager-master/android-auto-scroll-view-pager-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-flowlayout-master-lib/android-flowlayout-master-lib.iml" filepath="$PROJECT_DIR$/android-flowlayout-master-lib/android-flowlayout-master-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diantu_daikuan_2.3.0.iml" filepath="$PROJECT_DIR$/diantu_daikuan_2.3.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handmarkPulltorefreshLibrary-master/handmarkPulltorefreshLibrary-master.iml" filepath="$PROJECT_DIR$/handmarkPulltorefreshLibrary-master/handmarkPulltorefreshLibrary-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imgload_lib/imgload_lib.iml" filepath="$PROJECT_DIR$/imgload_lib/imgload_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immortalviewpager/immortalviewpager.iml" filepath="$PROJECT_DIR$/immortalviewpager/immortalviewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp_lib/okhttp_lib.iml" filepath="$PROJECT_DIR$/okhttp_lib/okhttp_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng_push_lib/umeng_push_lib.iml" filepath="$PROJECT_DIR$/umeng_push_lib/umeng_push_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng_social_sdk_library/umeng_social_sdk_library.iml" filepath="$PROJECT_DIR$/umeng_social_sdk_library/umeng_social_sdk_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wheel_lib/wheel_lib.iml" filepath="$PROJECT_DIR$/wheel_lib/wheel_lib.iml" />
+    </modules>
+  </component>
+</project>

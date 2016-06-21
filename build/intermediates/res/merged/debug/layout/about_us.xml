@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/page_color"
+    android:orientation="vertical" 
+    android:id="@+id/root">
+
+    <include layout="@layout/headview" />
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="145.5dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="120dp"
+        android:background="@drawable/about_us_logo" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal|bottom"
+            android:paddingTop="23dp"
+            android:text="版本信息：V2.1.0"
+            android:textColor="@color/light_gray"
+            android:textSize="13sp" 
+            android:id="@+id/version_text"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal|bottom"
+            android:paddingTop="7dp"
+            android:text="商务合作：bd@shouxinjs.com"
+            android:textColor="#a5a5a5"
+            android:textSize="12sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="15dp" />
+    </LinearLayout>
+
+</RelativeLayout>

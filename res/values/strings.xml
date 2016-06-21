@@ -1,0 +1,151 @@
+<resources>
+
+    <string name="app_name">电兔贷款</string>
+    <!-- 退出相关提示语 -->
+    <string name="one_again_exit">再按一次退出应用</string>
+    <string name="action_search">Search</string>
+    <string name="forget_password">忘记密码</string>
+    
+    <string name="login">登录</string>
+    <!-- Regist -->
+    <string name="regist">注册</string>
+    <string name="regist_tip">请选择您的国家或地区并输入手机号</string>
+    <string name="regist_check_message">已阅读并同意</string>
+    <string name="regist_select_country">选择国家或地区代码</string>
+    <string name="regist_country_label">国家或地区</string>
+    <string name="regist_tel_hint">请输入手机号</string>
+    <string name="regist_validate_pre_code">请选择国家或地区</string>
+    <string name="regist_validate_tel">请输入手机号码</string>
+    <string name="regist_validate_tel_invalid">您输入的是一个无效的手机号码</string>
+    <string name="regist_validate_protocol">请阅读并同意注册协议</string>
+    <string name="regist_default_country">中国     </string>
+    <string name="regist_default_preCode">86</string>
+    <string name="regist_confirm_title">验证码短信将发送至此号码</string>
+    <!-- Set password -->
+    <string name="setpassword">设置密码</string>
+    <string name="setpassword_setpassword_hint">请输入密码</string>
+    <string name="setpassword_confirm_hint">请再次输入密码</string>
+    <string name="setpassword_tip">验证码短信已发送至此号码</string>
+    <string name="setpassword_verify_code">请输入验证码</string>
+    <string name="setpassword_btn_send_verify">重新发送</string>
+    <string name="setpassword_validate_verify">请输入验证码</string>
+    <!-- Forge Password -->
+    <string name="forget_tip">请输入您注册时所用的手机号码</string>
+    <string name="forget_label_tel">手机号</string>
+    <string name="forget_label_verify_code">验证码</string>
+    <string name="forget_customer_apply">客服申诉找回密码</string>
+    <string name="forget_about">关于</string>
+    <string name="forget_validate_tel">请输入手机号码</string>
+    <string name="forget_validate_tel_invalid">您输入的是一个无效的手机号码</string>
+    <!-- Reset Password -->
+    <string name="resetpassword">设置新密码</string>
+    <string name="resetpassword_tip">验证码短信已发送至此号码</string>
+    <string name="resetpassword_newpassword">输入新密码</string>
+    <string name="resetpassword_confirm">确认密码</string>
+    <string name="resetpassword_verify_hint">请输入验证码</string>
+    <string name="resetpassword_newpassword_hint">请设置新密码</string>
+    <string name="resetpassword_confirm_hint">请再次输入密码</string>
+    <string name="resetpassword_validate_verify">请输入验证码</string>
+    <string name="resetpassword_validate_password">请设置新密码</string>
+    <string name="resetpassword_validate_confirm">请再次输入密码</string>
+    <string name="resetpassword_validate_invalid">请输入正确格式密码</string>
+    <string name="resetpassword_validate_diff">两次密码输入不一致\r\n请检查并再次输入</string>
+    <string name="resetpassword_btn_send_verify">重新发送</string>
+    <!-- User info -->
+    <string name="userinfo">请完善个人信息</string>
+    <string name="userinfo_tip">请上传个人照片并设置昵称：</string>
+    <string name="userinfo_label_nick">昵称</string>
+	<string name="userinfo_nick_hint">4-10位中英文字符或数字</string>
+	<string name="userinfo_nick_tip">请输入4-10位中英文字符或数字</string>
+	<string name="userinfo_validate_nick">请输入昵称</string>
+	<string name="userinfo_validate_nick_invalid">请输入4-10位中英文字符或数字</string>
+	 <!-- Dialog -->
+    <string name="btn_ok">确&#160;&#160;&#160;定</string>
+    <string name="btn_cancel">取&#160;&#160;&#160;消</string>
+    <string name="dialog_title">需对方通过您的验证请求方可添加成功。</string>
+	<!-- Preview Image -->
+	<string name="previewimage">确认头像</string>
+    <!-- Button -->
+    <string name="btn_complete">完  成</string>
+    <!-- message -->
+    <string name="search">搜索</string>
+    <!-- settting -->
+    <string name="myaccount">我的账户</string>
+    <string name="setting">设置</string>
+    <string name="privateinfo">个人信息</string>
+    <string name="barcodecard">我的名片</string>
+    <!-- Menu Item -->
+    <string name="scan">扫一扫</string>
+    <!-- verification notice -->
+    <string name="verificationnotice">验证通知</string>
+    <string name="mypees">我的同行</string>
+    <!-- Patients -->
+    <string name="address">居住地</string>
+    <string name="birthday">出生日期</string>
+    <string name="gender">性别</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <!-- bottom -->
+    <string name="message">消息</string>
+    <string name="order">预约</string>
+    <string name="settings">我</string>
+    <string name="service">服务</string>
+    <string name="msg_bottom_menu_all">全部</string>
+    
+    <string name="btn_submit">提&#160;&#160;&#160;交</string>
+    <string name="btn_regist">注&#160;&#160;&#160;册</string>
+    <string name="btn_save">保&#160;&#160;&#160;存</string>
+    <string name="btn_send_feedback">发&#160;&#160;&#160;送</string>
+    <string name="btn_logout">退出登录</string>
+    <string name="btn_send">发送</string>
+    <string name="btn_talk">按住说话</string>
+
+    <string name="msg_barcode_save">已保存个人二维码到</string>
+    
+    <!-- download -->
+    <string name="start_download_title">开始下载更新程序..</string>
+    <string name="download_ing_message">正在下载应用程序更新....</string>
+    <string name="download_count_title">已下载..</string>
+    <string name="auto_update_fail">下载更新程序失败..</string>
+    <string name="download_fail_message">下载失败,请检查网络。</string>
+    <string name="download_success_message">下载完成,请点击安装。</string>
+    <string name="download_success_title">更新程序,下载完成。</string>
+	<string name="msg_verified_tel">已验证手机 ：</string>
+	
+	<!-- 网络相关提示 -->
+    <string name="network_exception">网络不给力噢，稍候再试试吧</string>
+    <string name="POOR_NETWORK_STATUS">网络不给力噢，稍候再试试吧</string>
+    <string name="update_version_false"> 本次更新失败，请稍候重试</string>
+    <string name="server_exception">服务器异常</string>
+    <string name="reques_error_url">错误的请求地址</string>
+    <string name="server_or_net_error">服务器或网络出错了</string>
+    <string name="connect_time_out">网络信号太弱，连接超时</string>
+    <string name="try_login_again">您的账号已在另一设备上成功登录，请注意账号安全。</string>
+    <string name="load_data_fail_try_again_after">数据载入失败，请稍候点击再试试</string>
+    <string name="on_load">正在加载，请稍候...</string>
+    <string name="data_loading_waiting">加载中，请稍候...</string>
+    <string name="dialog_negative_button">取消</string>
+    
+    <string name="finish">完成</string>
+    <string name="edit">编辑</string>
+	<string name="msg_exit_app">再按一次退出程序</string>
+	<string name="msg_fav_cancel">是否确认取消？</string>
+	
+	<string name="you_have_not_install_weixin">您还没有安装微信哦</string>
+    <string name="use_wxpay_after_install_weixin">请安装微信后使用微信支付~</string>
+    <string name="your_weixin_version_not_support">您的微信版本过低，请下载最新的版本后再尝试</string>
+    <string name="label_nick">昵称:</string>
+    <!-- 分享菜单上的文字 -->
+    <string name="share">分享</string>
+    <string name="invite_friends">邀请好友</string>
+    <string name="share_to">分享到</string>
+    <string name="weixing_pengyou_quan">微信朋友圈</string>
+    <string name="weixing_haoyou">微信好友</string>
+    <string name="sina_weibo">新浪微博</string>
+    <string name="tengxun_weibo">腾讯微博</string>
+    <string name="qq_space">QQ空间</string>
+    <string name="qq_friends">QQ好友</string>
+    <string name="share_waiting">分享请求中，请稍候...</string>
+    <string name="fabiao">发表</string>
+    
+</resources>

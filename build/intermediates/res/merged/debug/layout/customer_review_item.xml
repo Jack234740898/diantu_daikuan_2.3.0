@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:cacheColorHint="@color/black"
+        android:divider="@color/line_color"
+        android:dividerHeight="@dimen/divider_line_height"
+        android:scrollbars="none"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/view_group"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:background="@color/white"
+        android:divider="@drawable/line_color_img"
+        android:showDividers="middle|end"
+        android:orientation="vertical" />
+
+    <View
+        android:id="@+id/bottom_view"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_below="@id/view_group"
+        android:background="@color/white"
+        android:visibility="visible" />
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="20dp"
+        layout="@layout/no_data_view"
+        android:background="@color/white" />
+
+</RelativeLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  -->
+    <dimen name="big_title_size">18sp</dimen>
+    <dimen name="title_size">16sp</dimen>
+    <dimen name="desc_size">14sp</dimen>
+    <dimen name="navigate_text_size">12sp</dimen>
+    <dimen name="small_text_size">10sp</dimen>
+    <!-- 方块的高度 -->
+    <dimen name="fangkuai_height">45dp</dimen>
+    <dimen name="edge_distance">10dp</dimen>
+
+    <!-- listview  item的高度 -->
+    <dimen name="listview_item_height">70dp</dimen>
+
+    <!-- 分割线的高度 -->
+    <dimen name="divider_line_height">0.7dp</dimen>
+    <dimen name="small_corner">5dp</dimen>
+    <dimen name="midle_corner">10dp</dimen>
+    <dimen name="big_corner">15dp</dimen>
+
+    <!-- 页面head高度 -->
+    <dimen name="page_head_height">47dp</dimen>
+
+    <!-- title高度 -->
+    <dimen name="title_group_height">45dp</dimen>
+
+    <!-- 文本框高度 -->
+    <dimen name="text_bg_height">42dp</dimen>
+    <!-- 头像大小 -->
+    <dimen name="head_small_size">25dp</dimen>
+    <dimen name="head_mid_size">40dp</dimen>
+    <dimen name="head_big_size">65dp</dimen>
+    <dimen name="list_dianzan_size">18dp</dimen>
+    <dimen name="slidingmenu_offset">50dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="shadow_width">10dp</dimen>
+
+    <integer name="num_cols">1</integer>
+
+    <dimen name="verify_img_size">180dp</dimen>
+    <dimen name="left_padding">12dp</dimen>
+    <dimen name="right_padding">12dp</dimen>
+    <dimen name="top_padding">10dp</dimen>
+    <dimen name="bottom_padding">10dp</dimen>
+    <dimen name="apply_loan_form_left_width">130dp</dimen>
+    <!-- 与左边距离 -->
+    <dimen name="left_margin">12dp</dimen>
+    <!-- 与右边距离 -->
+    <dimen name="right_margin">12dp</dimen>
+    <!-- 与上边距离 -->
+    <dimen name="top_margin">11dp</dimen>
+    <!-- 与底部距离 -->
+    <dimen name="bottom_margin">11dp</dimen>
+
+</resources>

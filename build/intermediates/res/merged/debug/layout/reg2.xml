@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/page_color"
+    android:orientation="vertical" >
+
+    <include layout="@layout/reg_headview" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="欢迎注册电兔金服"
+        android:textColor="@color/orange_red_text"
+        android:textSize="19sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center_horizontal"
+        android:text="请 设 置 名 称 和 密 码"
+        android:textColor="@color/title_text_color"
+        android:textSize="@dimen/title_size" />
+
+    <EditText 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/corner_edittext"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:hint="请输入名称，4-16位英文，2-8位中文"
+        android:textSize="@dimen/title_size"
+        android:textColor="@color/title_text_color"
+        android:padding="10dp"
+        android:id="@+id/name_edit"/>
+    <EditText 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/corner_edittext"
+        android:layout_margin="10dp"
+        android:hint="请输入密码，6-16位"
+        android:textSize="@dimen/title_size"
+        android:textColor="@color/title_text_color"
+        android:padding="10dp"
+        android:id="@+id/pwd_edit"
+        android:password="true"/>
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="注册完成 开始使用"
+        android:textSize="@dimen/title_size"
+        android:textColor="@color/white"
+        android:padding="10dp"
+        android:id="@+id/begin_text"
+        android:background="@color/orange_red_text"
+        android:gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+</LinearLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DoubleDatePicker-master" />
+            <option value="$PROJECT_DIR$/GaoDeLib" />
+            <option value="$PROJECT_DIR$/OneSDK_dk_IMKit-1.8.2" />
+            <option value="$PROJECT_DIR$/android-auto-scroll-view-pager-master" />
+            <option value="$PROJECT_DIR$/android-flowlayout-master-lib" />
+            <option value="$PROJECT_DIR$/handmarkPulltorefreshLibrary-master" />
+            <option value="$PROJECT_DIR$/imgload_lib" />
+            <option value="$PROJECT_DIR$/immortalviewpager" />
+            <option value="$PROJECT_DIR$/okhttp_lib" />
+            <option value="$PROJECT_DIR$/umeng_push_lib" />
+            <option value="$PROJECT_DIR$/umeng_social_sdk_library" />
+            <option value="$PROJECT_DIR$/wheel_lib" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DoubleDatePicker-master" />
+            <option value="$PROJECT_DIR$/GaoDeLib" />
+            <option value="$PROJECT_DIR$/OneSDK_dk_IMKit-1.8.2" />
+            <option value="$PROJECT_DIR$/android-auto-scroll-view-pager-master" />
+            <option value="$PROJECT_DIR$/android-flowlayout-master-lib" />
+            <option value="$PROJECT_DIR$/handmarkPulltorefreshLibrary-master" />
+            <option value="$PROJECT_DIR$/imgload_lib" />
+            <option value="$PROJECT_DIR$/immortalviewpager" />
+            <option value="$PROJECT_DIR$/okhttp_lib" />
+            <option value="$PROJECT_DIR$/umeng_push_lib" />
+            <option value="$PROJECT_DIR$/umeng_social_sdk_library" />
+            <option value="$PROJECT_DIR$/wheel_lib" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

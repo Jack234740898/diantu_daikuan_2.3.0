@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_localnotification.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_localnotification.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_add_localnotification.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_add_localnotification.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\localnotification_item.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\localnotification_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_test.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_view.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\umeng_push_lib\\build\\intermediates\\bundles\\debug\\res\\layout\\notification_view.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_large_blue.png",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_large_white.png",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_small_blue.png",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\drawable-xxhdpi-v4\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_button_send_round_shadow.png",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\drawable-xxhdpi-v4\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_taobao_tae_sdk_web_view_title_bar_back.9.png",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\drawable-xxhdpi-v4\\com_taobao_tae_sdk_web_view_title_bar_back.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_send_icon.png",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\drawable-xxhdpi-v4\\com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_icon.png",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\drawable-xxhdpi-v4\\com_facebook_button_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\messenger_bubble_small_white.png",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\umeng_social_sdk_library\\unspecified\\res\\drawable-xxhdpi-v4\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\immortalviewpager\\unspecified\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_taobao_tae_sdk_web_view_title_bar_close.9.png",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\build\\intermediates\\exploded-aar\\diantu_daikuan_2.3.0\\OneSDK_dk_IMKit-1.8.2\\unspecified\\res\\drawable-xxhdpi-v4\\com_taobao_tae_sdk_web_view_title_bar_close.9.png"
+    }
+]

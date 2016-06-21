@@ -1,0 +1,1 @@
+include ':android-auto-scroll-view-pager-master', ':android-flowlayout-master-lib', ':DoubleDatePicker-master', ':okhttp_lib', ':wheel_lib', ':OneSDK_dk_IMKit-1.8.2', ':umeng_push_lib', ':immortalviewpager', ':umeng_social_sdk_library', ':handmarkPulltorefreshLibrary-master', ':imgload_lib', ':GaoDeLib'

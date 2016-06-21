@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#e96859"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/product_name_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingBottom="20dp"
+        android:paddingTop="16dp"
+        android:text="平安精英贷"
+        android:textColor="@color/white"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/product_addr_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingBottom="15dp"
+        android:text="平安银行北京五道口支行"
+        android:textColor="@color/white"
+        android:textSize="@dimen/desc_size" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#eb7466"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="12dp"
+                android:text="贷款额度"
+                android:textColor="@color/white"
+                android:textSize="@dimen/desc_size" />
+
+            <TextView
+                android:id="@+id/dk_salary_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="12dp"
+                android:paddingTop="6dp"
+                android:text="20000元-500000元"
+                android:textColor="@color/white"
+                android:textSize="@dimen/title_size" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="@dimen/divider_line_height"
+            android:layout_height="42dp"
+            android:layout_gravity="center_vertical"
+            android:background="#f5bab3" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="12dp"
+                android:text="贷款期限"
+                android:textColor="@color/white"
+                android:textSize="@dimen/desc_size" />
+
+            <TextView
+                android:id="@+id/dk_term_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="12dp"
+                android:paddingTop="6dp"
+                android:text="3个月-60个月"
+                android:textColor="@color/white"
+                android:textSize="@dimen/title_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

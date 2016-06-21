@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\android-flowlayout-master-lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tag_checked_pressed.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\android-flowlayout-master-lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\tag_checked_pressed.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\android-flowlayout-master-lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tag_checked_normal.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\android-flowlayout-master-lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\tag_checked_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\android-flowlayout-master-lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tag_bg.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\android-flowlayout-master-lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\tag_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\android-flowlayout-master-lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tag_pressed.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\android-flowlayout-master-lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\tag_pressed.xml"
+    },
+    {
+        "merged": "E:\\workspace\\diantu_daikuan_2.3.0\\android-flowlayout-master-lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tag_normal.xml",
+        "source": "E:\\workspace\\diantu_daikuan_2.3.0\\android-flowlayout-master-lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\tag_normal.xml"
+    }
+]

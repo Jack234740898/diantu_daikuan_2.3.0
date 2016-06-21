@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 纯黑色 -->
+    <color name="black">#000000</color>
+    <!-- 白色 -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- 应用字体主颜色 -->
+    <color name="main_color">#50484b</color>
+    
+    <!-- 顶部headview的背景色 -->
+    <color name="headview_color">#f5f5f5</color>
+    <!-- 应用页面的颜色 #ebebeb -->
+    <color name="page_color">#EBF0F1</color>
+    <!-- 标题的颜色 -->
+    <color name="title_text_color">#1b2641</color>
+    <!-- 描述的颜色 #757575 -->
+    <color name="desc_text_color">#666666</color>
+
+    <!-- Edittext默认描述的颜色 -->
+    <color name="edit_text_color_hint">#a5a5a5</color>
+    <!-- Edittext默认描述后的颜色 -->
+    <color name="edit_text_color">#5b9fe2</color>
+
+    <!-- 文字的颜色 -->
+    <color name="common_text_color">#535353</color>
+    <!-- 边框线，分割线的颜色 -->
+    <color name="line_color">#eeeeee</color>
+    <!-- 蓝色 -->
+    <color name="blue_color">#fb635a</color>
+
+    <!-- 浅黄色 -->
+    <color name="light_yellow">#E4EECE</color>
+    <!-- 深橘黄色#FF8C00 -->
+    <color name="dark_orange_color">#FF6600</color>
+
+    <!-- 橘黄色 #e67e22 -->
+    <color name="orange_color">#ff6600</color>
+
+    <!-- 深灰色 -->
+    <color name="dark_gray">#A5A5A5</color>
+    <!-- 黑灰色 -->
+    <color name="black_gray">#37444A</color>
+
+    <!-- 不可点背景色 -->
+    <color name="unable_color">#EDEDF3</color>
+
+    <!-- 编辑文字选中颜色 -->
+    <color name="text_selected_color">#93aec3</color>
+    <color name="white_smoke_color">#F5F5F5</color>
+    <color name="deep_sky_blue_color">#00BFFF</color>
+    <!-- #197ccf -->
+    <color name="blue">#fb635a</color>
+    <color name="login_color">#ec6131</color>
+    <color name="dodger_blue">#1E90FF</color>
+    <color name="light_gray">#a5a5a5</color>
+    <color name="maxblack">#383635</color>
+    <color name="midblack">#6A6A6C</color>
+    <color name="minblack">#ADACAC</color>
+    <color name="light_sea_green">#20B2AA</color>
+    <!-- CornflowerBlue -->
+    <color name="corn_flower_blue">#6495ED</color>
+    <color name="medium_aqua_marine">#66CDAA</color>
+    <color name="light_red_color">#e67585</color>
+    <color name="share_menu_bg">#ededed</color>
+
+    <!-- 原价格颜色 fb667b -->
+    <color name="red_text_color">#ff0000</color>
+
+    <!-- #FF6600 橙色 -->
+    <color name="refresh_orange_color">#FF6600</color>
+    <!-- #FF6600 绿色 -->
+    <color name="refresh_green_color">#33FF66</color>
+    <!-- #FF6600 绿色 -->
+    <color name="refresh_brown_color">#666600</color>
+    <!-- #FF6600 绿色 -->
+    <color name="refresh_sky_blue_color">#3399FF</color>
+    <color name="sky_blue">#399dff</color>
+    <color name="sky_blue_text">#427bb7</color>
+    <color name="reg_kuang_color">#EA544A</color>
+    <color name="yellow_color">#ffd339</color>
+
+    <!-- 时间戳 #999999 -->
+    <color name="time_color">#999999</color>
+    <!-- 已读 -->
+    <color name="have_read_color">#999999</color>
+
+    <!-- 贷款金额 -->
+    <color name="salary_color">#fb635a</color>
+    <color name="orange_yellow_color">#fba43d</color>
+    <color name="light_green_color">#09ba6a</color>
+    <color name="orange_red_color">#fb635a</color>
+
+    <!-- 颜色随机 -->
+    <color name="color1">#8695f1</color>
+    <color name="color2">#ff4f57</color>
+    <color name="color3">#3ec78b</color>
+    <color name="color4">#ffc600</color>
+    <color name="color5">#ff8208</color>
+    <color name="color6">#5b9fe2</color>
+    <color name="apply_loan_name_color">#757575</color>
+    <color name="apply_loan_value_color">#333333</color>
+    <color name="apply_loan_hint_value_color">#e0e0e0</color>
+    
+    <color name="orange_red_bg">#ea574a</color>
+	<color name="orange_red_text">#ea5544</color>
+</resources>
